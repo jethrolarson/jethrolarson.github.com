@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: simple
 title: Résumé - Jethro Larson
 ---
 
@@ -18,6 +18,7 @@ Experience
 
 Auctiva Corporation (2006 - Present)
 ------------------------------------
+  
   * Spread the use of CSS, XML, and Web Standards
   * Pioneered use of  AJAX, jQuery, Firebug, and Usability Testing
   * Held many roles including: UI Designer, Web Developer, Software Engineer, IA, UX, and Programmer
