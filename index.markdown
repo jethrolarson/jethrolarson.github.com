@@ -1,6 +1,6 @@
 ---
-layout: simple
 title: Résumé - Jethro Larson
+layout: simple
 ---
 
 Jethro Larson
