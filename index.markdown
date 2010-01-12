@@ -1,3 +1,8 @@
+---
+layout: post
+title: Résumé - Jethro Larson
+---
+
 Jethro Larson
 =============
 1301 Sheridan Avenue, No. 102  
