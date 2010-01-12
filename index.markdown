@@ -18,12 +18,11 @@ Experience
 
 Auctiva Corporation (2006 - Present)
 ------------------------------------
-  
-  * Spread the use of CSS, XML, and Web Standards
-  * Pioneered use of  AJAX, jQuery, Firebug, and Usability Testing
-  * Held many roles including: UI Designer, Web Developer, Software Engineer, IA, UX, and Programmer
-  * Promoted to Jr. Software Engineer January 2008 
-  * Promoted to Web Developer March 2009
+* Spread the use of CSS, XML, and Web Standards
+* Pioneered use of  AJAX, jQuery, Firebug, and Usability Testing
+* Held many roles including: UI Designer, Web Developer, Software Engineer, IA, UX, and Programmer
+* Promoted to Jr. Software Engineer January 2008 
+* Promoted to Web Developer March 2009
 
 
 ### Worked on the following Auctiva Corporation projects:
