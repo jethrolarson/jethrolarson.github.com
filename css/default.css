@@ -1,6 +1,11 @@
 h1,h2,h3,h4,h5{
-  font-family: 16px Georgia, serif;
+  margin: 1em 0 .25em;
+  font-family: Georgia, serif;
+  font-weight: normal;
   color:#666;
 }
-body{margin: 0;}
+body{
+  margin: 0;
+  font: 16px/1.5 Arial,sans-serif;
+}
 #page{margin: 12px;}
