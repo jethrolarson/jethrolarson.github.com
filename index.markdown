@@ -38,12 +38,12 @@ Auctiva Corporation (2006 - Present)
   UI consulting, and front-end debugging. Alpha.
 
 * #### Auctiva.com (2006 - 2009)
-    * Established Standards for HTML, CSS, and JavaScript
-    * Redesigned and implemented store template system leading to a 300% increase in conversion rate.
-    * Designed and created The Online Seller Blog which improved customer relations and SEO
-    * Performed font-end cleanup improving SEO, agility, and performance across the board.
-    * Implemented 2009 site redesign
-    * Pioneered AJAX use in 2006
+  * Established Standards for HTML, CSS, and JavaScript
+  * Redesigned and implemented store template system leading to a 300% increase in conversion rate.
+  * Designed and created The Online Seller Blog which improved customer relations and SEO
+  * Performed font-end cleanup improving SEO, agility, and performance across the board.
+  * Implemented 2009 site redesign
+  * Pioneered AJAX use in 2006
 
 * #### KickItBack.com (2006 - 2009)
   * Front-end development
