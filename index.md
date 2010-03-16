@@ -1,5 +1,5 @@
 ---
-title: Résumé - Jethro Larson
+title: R&eacute;sum&eacute; - Jethro Larson
 layout: simple
 ---
 
@@ -15,8 +15,25 @@ Chico, CA 95926
 
 Experience
 ==========
+Improvement Direct (2010 - Present)
+-----------------------------------
+* Primarily front-end development
+* UI Design 
+* Focusing on jQuery plugin development for multi-site application.
+* Updating Legacy HTML/CSS/JavaScript
 
-Auctiva Corporation (2006 - Present)
+### Sites:
+* <http://Build.com>
+* <http://FaucetDirect.com>
+* <http://LightingDirect.com>
+* <http://VentingDirect.com>
+* <http://HandleSets.com>
+* <http://PullsDirect.com>
+* <http://MoreHome.com>
+* <http://VentingPipe.com>
+* <http://ImprovementDirect.com>
+
+Auctiva Corporation (2006 - 2010)
 ------------------------------------
 * Spread the use of CSS, XML, and Web Standards
 * Pioneered use of  AJAX, jQuery, Firebug, and Usability Testing
@@ -130,14 +147,16 @@ Competant
 * HTTP
 * SQL
 * YAML
+* HTML5
 
 Interested
 ----------
 * Flash/ActionScript
-* HTML5
 * CSS3
 * Ruby
 * RIA
+* SVG
+* Canvas
 
 Philosophies
 ------------
@@ -185,8 +204,7 @@ DB
 
 Favorite tools
 --------------
-* E Text Editor
+* TextMate
 * Firebug
-* Paint.NET
 
 
