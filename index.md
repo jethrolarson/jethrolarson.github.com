@@ -52,7 +52,7 @@ Auctiva Corporation (2006 - 2010)
   Web Development, Prototyping, and UI Design.
   
 * #### PoweredByAMP.com (2009 - Present)
-  UI consulting, and front-end debugging. Alpha.
+  UI consulting, and front-end debugging.
 
 * #### Auctiva.com (2006 - 2009)
   * Established Standards for HTML, CSS, and JavaScript
@@ -94,14 +94,14 @@ Auctiva Corporation (2006 - 2010)
 
 Side Projects
 =============
-* ### JsAces.com (2009-Present)
-Currently part of a front-end development consultancy focused on developing markup and CSS frameworks.
+* ### JsAces.com (2009)
+Part of a startup front-end development consultancy focused on developing markup and CSS frameworks.
 
 * ### Bloody Bits  (2009 - Present)
 Game Designer, writer, and developer.
 
 * ### Lightning Biscuit (2008 - Present)
-Web Design and Development. Stealth Mode.
+Web Design and Development.
 
 * ### FUG in Public (2007)
 Blog Template Design
