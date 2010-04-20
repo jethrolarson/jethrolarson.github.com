@@ -15,7 +15,7 @@ $(function(){
     }
   }
 	$("#tweet").ajaxError(function(){$(this).append("Twitter failed loading");});
-	$(".tooltip").zenTooltip();
+	//$(".tooltip").zenTooltip();
 });
 
 
