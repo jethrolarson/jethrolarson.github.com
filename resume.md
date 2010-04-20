@@ -4,12 +4,13 @@ layout: simple
 ---
 
 Jethro Larson
-=============
+----
 1301 Sheridan Avenue, No. 102  
 Chico, CA 95926  
 530-781-3536  
 <jethrolarson@gmail.com>  
 <http://jethrolarson.com>  
+[Plain Text Version](http://github.com/jethrolarson/jethrolarson.github.com/raw/master/resume.md)
 
 ----
 
@@ -17,10 +18,11 @@ Experience
 ==========
 Improvement Direct (2010 - Present)
 -----------------------------------
-* Primarily front-end development
+* Front-end development
 * UI Design 
-* Focusing on jQuery plugin development for multi-site application.
+* jQuery plugin development for multi-site application.
 * Updating Legacy HTML/CSS/JavaScript
+* ColdFusion Programming
 
 ### Sites:
 * <http://Build.com>
@@ -45,17 +47,17 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 
 ### Worked on the following Auctiva Corporation projects:
 * #### Auctiva Marketplace Platform (2009 - Present)
-  * Developed front end for new buyer portal
   * Designed and Developed AJAX-driven widgets for integration into external sites
-  * Developed Prototypes for various products that sonsume the API
+  * Developed Prototypes for various products that consume their API
+  * Developed internal tools for training and reference
 
-* #### Elefy.com (2009 - Present)
+* #### [Elefy.com](http://elefy.com) (2009 - Present)
   Web Development, Prototyping, and UI Design.
   
-* #### PoweredByAMP.com (2009 - Present)
+* #### [PoweredByAMP.com](http://poweredbyamp.com) (2009 - Present)
   UI consulting, and front-end debugging.
 
-* #### Auctiva.com (2006 - 2009)
+* #### [Auctiva.com](http://auctiva.com) (2006 - 2009)
   * Established Standards for HTML, CSS, and JavaScript
   * Redesigned and implemented store template system leading to a 300% increase in conversion rate.
   * Designed and created The Online Seller Blog which improved customer relations and SEO
@@ -63,18 +65,18 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
   * Implemented 2009 site redesign
   * Pioneered AJAX use in 2006
 
-* #### KickItBack.com (2006 - 2009)
+* #### [KickItBack.com](http://kickitback.com) (2006 - 2009)
   * Front-end development
   * Functional Prototyping
   * AJAX Design and Development
   * Designed and implemented Wordpress Theme
 
-* #### BidSniper.com (2007 - 2008)
+* #### [BidSniper.com](http://bidsniper.com) (2007 - 2008)
   * Architected CMS Templating System for Rapid Development using XML/XSLT
   * Prototyped functionality and design
   * Developed roll-out plan for future features
 
-* #### AuctivaCommerce.com (2008 - 2009)
+* #### [AuctivaCommerce.com](http://auctivacommerce.com) (2008 - 2009)
   * Developed marketing website and template system
   * Consulted on design proposals and third party products
   * Prototyped new features and designs
@@ -82,21 +84,24 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
   * Proposed and implemented many UI, and IA improvements
   * Improved code cleanliness and standards
 
-* #### Sellathon.com (2008 - 2009)
+* #### [Sellathon.com](http://sellathon.com) (2008 - 2009)
   * Worked with design team to implement redesign and front-end cleanup
   * Set up AB testing for homepage redesign
 
-* #### AuctionSniper.com (2006 - Present)
+* #### [AuctionSniper.com](http://auctionsniper.com) (2006 - Present)
   * Wireframed UI improvements
   * Some front-end cleanup
 
-* #### BattleBids.com (2007)
+* #### [BattleBids.com](http://battlebids.com) (2007)
   Flash Development and Prototyping
 
 Side Projects
 =============
-* ### JsAces.com (2009)
+* ### [JsAces.com](http://jsaces.com) (2009)
 Part of a startup front-end development consultancy focused on developing markup and CSS frameworks.
+
+* ### [Todoosie.com](http://www.todoosie.com) (2009-Current)
+Simple todo list app I authored with some help from [@bradonweb](http://twitter.com/bradonweb)
 
 * ### Bloody Bits  (2009 - Present)
 Game Designer, writer, and developer.
@@ -207,6 +212,3 @@ Favorite tools
 --------------
 * TextMate
 * Firebug
-
-
-If you'd like this in MS Word format you can use copy/paste but you'll immediately have an out of date version.

@@ -13,4 +13,7 @@ A hazy beam of bluish light shines from the
 [open window](#living-room/shutters) on the [wreckage](#living-room/wreckage) of 
 last night's incident.
 
+<div id="">
+
 The father, [hiro](#living-room/hiro), stands near the door.
+</div>

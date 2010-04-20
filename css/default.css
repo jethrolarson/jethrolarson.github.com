@@ -4,7 +4,8 @@ h1,h2,h3,h4,h5{
   font-weight: normal;
   color:#666;
 }
-ul,ol,p{margin: .25px 0 1em;}
+ul,ol,p{margin: .25px 0 1em; padding:0;}
+ul li{list-style:square;margin: 0 0 0 20px;}
 a:link{color:#5D459F;}
 body{
   margin: 0;
