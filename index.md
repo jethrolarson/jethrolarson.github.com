@@ -1,6 +1,6 @@
 ---
 title: Jethro Larson - Web Developer, Designer, Craftsman
-subhead: Web Developer. Design. Craftsman.
+subhead: Web Developer. Designer. Craftsman.
 layout: full
 description: The personal portfolio of Web Designer/Developer Jethro Larson
 ---
