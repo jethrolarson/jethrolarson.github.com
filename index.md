@@ -1,26 +1,23 @@
 ---
 id: index
 title: Jethro Larson - Web Developer, Designer, Craftsman
-subhead: Web Developer. Designer. Craftsman.
+subhead: Web Developer/Programmer for Build.com 
 layout: full
 description: The personal portfolio of Web Designer/Developer Jethro Larson
 ---
 
 <img id="picture" src="/images/ohYeah_small.jpg" alt="Oh Yeaaah!"/>
 
-Web Developer/Programmer for Build.com 
---------------------------
-* HTML, CSS, and JavaScript expert
+* Front-end expertise  
+  HTML/CSS/JS
 * UI design
 * Rapid Prototyping
-* JavaScript Widget Development
-
 
 Turn ons 
 --------
-* Helping users kick ass
-* Lax policies
+* UX focused team
 * Agile attitude
+* Family friendly
 
 Turn Offs
 ---------
