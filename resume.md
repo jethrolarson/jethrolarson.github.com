@@ -154,6 +154,7 @@ Competant
 * SQL
 * YAML
 * HTML5
+* ColdFusion
 
 Interested
 ----------
@@ -163,6 +164,8 @@ Interested
 * RIA
 * SVG
 * Canvas
+* Haml/Sass
+* Compass
 
 Philosophies
 ------------
@@ -199,6 +202,10 @@ Platforms
 * Wordpress
 * Blogger
 * Ruby on Rails
+* Jekyll
+* Express
+* CommonJS
+* Staticmatic
 
 DB
 ---
@@ -212,3 +219,4 @@ Favorite tools
 --------------
 * TextMate
 * Firebug
+* Paper (Yes, the real kind)
