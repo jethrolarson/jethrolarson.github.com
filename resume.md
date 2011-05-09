@@ -95,7 +95,7 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 
 Side Projects
 =============
-* ### [JsAces.com](http://jsaces.com) (2009)
+* ### [JsAces.com](http://jsaces.com) (Current)
 Part of a startup front-end development consultancy focused on developing markup and CSS frameworks.
 
 * ### [Todoosie.com](http://www.todoosie.com) (2009-Current)
@@ -103,9 +103,6 @@ Simple todo list app I authored with some help from [@bradonweb](http://twitter.
 
 * ### Bloody Bits  (2009 - Present)
 Game Designer, writer, and developer.
-
-* ### Lightning Biscuit (2008 - Present)
-Web Design and Development.
 
 * ### FUG in Public (2007)
 Blog Template Design
@@ -122,18 +119,15 @@ Courses taken in pursuit of BS in Applied Computer Graphics. Communication Desig
 
 Skills/Tech
 ===========
-Mastered
---------
-* CSS
-* HTML
-* jQuery
 
 Advanced
 --------
+* CSS
+* HTML
 * JavaScript
+* jQuery
 * UI Design
 * Usability
-* XML
 * AJAX
 * Web Standards
 
@@ -156,6 +150,7 @@ Competant
 
 Interested
 ----------
+* Node.js
 * Flash/ActionScript
 * CSS3
 * Ruby
@@ -196,13 +191,9 @@ Platforms
 * Google AppEngine
 * ASP.NET
 * ColdFusion
-* .NET MVC
 * Wordpress
 * Blogger
-* Ruby on Rails
-* Jekyll
 * Express
-* CommonJS
 * Staticmatic
 
 DB
