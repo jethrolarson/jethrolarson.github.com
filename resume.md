@@ -52,13 +52,13 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 * #### [Elefy.com](http://elefy.com) (2009 - Present)
   Web Development, Prototyping, and UI Design.
   
-* #### [PoweredByAMP.com](http://poweredbyamp.com) (2009 - Present)
+* #### [PoweredByAMP.com](http://poweredbyamp.com) (2009)
   UI consulting, and front-end debugging.
 
 * #### [Auctiva.com](http://auctiva.com) (2006 - 2009)
   * Established Standards for HTML, CSS, and JavaScript
   * Redesigned and implemented store template system leading to a 300% increase in conversion rate.
-  * Designed and created The Online Seller Blog which improved customer relations and SEO
+  * Designed and created The Online Seller Blog
   * Performed font-end cleanup improving SEO, agility, and performance across the board.
   * Implemented 2009 site redesign
   * Pioneered AJAX use in 2006
@@ -70,7 +70,7 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
   * Designed and implemented Wordpress Theme
 
 * #### [BidSniper.com](http://bidsniper.com) (2007 - 2008)
-  * Architected CMS Templating System for Rapid Development using XML/XSLT
+  * Architected CMS and templating system for Rapid Development using XML/XSLT
   * Prototyped functionality and design
   * Developed roll-out plan for future features
 
@@ -91,7 +91,7 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
   * Some front-end cleanup
 
 * #### [BattleBids.com](http://battlebids.com) (2007)
-  Flash Development and Prototyping
+  * Flash Development and Prototyping
 
 Side Projects
 =============
