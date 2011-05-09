@@ -16,13 +16,12 @@ Chico, CA 95926
 
 Experience
 ==========
-Improvement Direct (2010 - Present)
+Build.com (2010 - Present)
 -----------------------------------
 * Front-end development
 * UI Design 
-* jQuery plugin development for multi-site application.
-* Updating Legacy HTML/CSS/JavaScript
-* ColdFusion Programming
+* JSON Service Creation
+* Mobile Design & Development
 
 ### Sites:
 * <http://Build.com>
@@ -31,9 +30,7 @@ Improvement Direct (2010 - Present)
 * <http://VentingDirect.com>
 * <http://HandleSets.com>
 * <http://PullsDirect.com>
-* <http://MoreHome.com>
 * <http://VentingPipe.com>
-* <http://ImprovementDirect.com>
 
 Auctiva Corporation (2006 - 2010)
 ------------------------------------
