@@ -35,6 +35,7 @@ Build.com (2010 - Present)
 Auctiva Corporation (2006 - 2010)
 ------------------------------------
 Titles: Web Developer, Jr. Software Engineer, Website Designer
+
 * Spread the use of CSS, XML, and Web Standards
 * Pioneered use of  AJAX, jQuery, Firebug, and Usability Testing
 * Held many roles including: UI Designer, Web Developer, Software Engineer, IA, UX, and Programmer
