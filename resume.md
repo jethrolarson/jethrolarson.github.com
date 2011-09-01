@@ -24,6 +24,8 @@ Build.com (2010 - Present)
 * Mobile Design & Development
 
 ### Sites:
+* <http://Faucet.com>
+* <http://LightingShowplace.com>
 * <http://Build.com>
 * <http://FaucetDirect.com>
 * <http://LightingDirect.com>
@@ -105,7 +107,7 @@ Simple todo list app I authored with some help from [@bradonweb](http://twitter.
 Game Designer, writer, and developer.
 
 * ### FUG in Public (2007)
-Blog Template Design
+Web Design
 
 * ### Deadmen Entertainment (2005)
 Web Design and Development
@@ -115,7 +117,7 @@ Education
 
 California State University Chico (2001-2006)
 ---------------------------------------------
-Courses taken in pursuit of BS in Applied Computer Graphics. Communication Design/Computer Science
+Courses taken in pursuit of BS in Applied Computer Graphics. Communication Design / Computer Science
 
 Skills/Tech
 ===========
@@ -124,11 +126,12 @@ Advanced
 --------
 * CSS
 * HTML
-* JavaScript
+* OO JavaScript
 * jQuery
 * UI Design
 * Usability
 * AJAX
+* Web Perf. Optimization
 * Web Standards
 
 Competant
@@ -138,27 +141,24 @@ Competant
 * .Net
 * IA
 * SEO
+* CSS3
 * Graphic Design
 * Accessibility
 * UX
 * XSLT
-* HTTP
 * SQL
-* YAML
 * HTML5
 * ColdFusion
+* SASS/Compass
+* CoffeeScript
 
 Interested
 ----------
 * Node.js
 * Flash/ActionScript
-* CSS3
 * Ruby
-* RIA
 * SVG
 * Canvas
-* Haml/Sass
-* Compass
 
 Philosophies
 ------------
