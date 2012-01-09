@@ -162,6 +162,6 @@ Platforms
 
 Favorite tools
 --------------
-* <s>TextMate</s> Sublime Text 2
+* Sublime Text 2
 * Firebug
 * Paper (Yes, the real kind)
