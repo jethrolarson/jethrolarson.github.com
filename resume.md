@@ -19,13 +19,17 @@ Experience
 Build.com (2010 - Present)
 -----------------------------------
 * Front-end development
-* UI Design 
-* JSON Service Creation
+* UX
+* Design 
+* Programming
+* IA
 * Mobile Design & Development
 
 ### Sites:
 * <http://Faucet.com>
 * <http://LightingShowplace.com>
+* <http://poconsole.com>
+* <http://omconsole.com>
 * <http://Build.com>
 * <http://FaucetDirect.com>
 * <http://LightingDirect.com>
@@ -97,6 +101,7 @@ Advanced
 * AJAX
 * Web Perf. Optimization
 * Web Standards
+* SASS/Compass
 
 Competant
 ---------
@@ -113,7 +118,6 @@ Competant
 * SQL
 * HTML5
 * ColdFusion
-* SASS/Compass
 * CoffeeScript
 
 Interested
@@ -158,6 +162,6 @@ Platforms
 
 Favorite tools
 --------------
-* TextMate
+* -TextMate- Sublime Text 2
 * Firebug
 * Paper (Yes, the real kind)
