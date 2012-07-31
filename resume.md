@@ -16,13 +16,19 @@ Chico, CA 95926
 
 Experience
 ==========
+
 Build.com (2010 - Present)
 -----------------------------------
-* UX Design
-* Front-end development
-* Programming
-* Mobile Design & Development
-* Web Performance Optimization
+Titles: Programmer, UX Designer
+* Acted as UX Designer for many internal and customer-facing projects
+* Led mobile project team to a successful launch
+* Designed and built a client and server-side website framework to facilitate high performance and touch-optimized mobile versions of our stores
+* Created UI frameworks and documentation to standardize client-side usage and ease development for both marketing and software development
+* Spearheaded efforts to improve client-side performance
+* Designed and built tools for vendor and order management
+* Championed and administered regular usability testing
+* Led the adoption of technologies like SASS, client-side MVCs, and CoffeeScript 
+* Acted as local JavaScript expert for the software development and marketing departments
 
 ### Sites:
 * <http://m.build.com>
@@ -34,15 +40,13 @@ Auctiva Corporation (2006 - 2010)
 ------------------------------------
 Titles: Web Developer, Jr. Software Engineer, Website Designer
 
-* Web Design
-* UI Development
-* Widget Design & Development
-* Rapid Prototyping
-* Tools Development
-* CMS Design
-* IA
-* A/B Testing
-* Flash Development
+* Championed and tutored on the use of CSS and web standards
+* Developed UI frameworks to facilitate site redesign
+* Led adoption of jQuery, A/B Testing, and XSL
+* Designed and Implemented XML driven CMS using jQuery and XSL.
+* Developed tools for API developers
+* Developed widgets for platform APIs
+* Developed gamification applications in Flash
 
 ### Sites:
 * [Auctiva Marketplace Platform](http://www.poweredbyamp.com)
@@ -58,10 +62,10 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 Side Projects
 =============
 ### [Navigation North](http://navigationnorth.com) (Current)
-Contract work prototyping educational tools for the Smithsonian
+Contract work prototyping educational tools for the Smithsonian. Acted as UX but also did significant development using Backbone, stylus, and PHP.
 
 ### [JsAces.com](http://jsaces.com) (2009-2011)
-Part of a startup front-end development consultancy focused on developing markup and CSS frameworks.
+Part of a startup front-end development consultancy focused on developing markup and CSS frameworks. Worked on a google maps widget for real estate agency CMS.
 
 ### [Pixeljs](http://pixeljs.appspot.com/level/agdwaXhlbGpzcg0LEgVMZXZlbBipwwEM) (2010-Current)
 Port of Picross to the web, focusing on user-generated content. (In develpment)
@@ -92,7 +96,7 @@ Advanced
 --------
 * CSS
 * HTML
-* OO JavaScript
+* JavaScript
 * jQuery
 * UI Design
 * Usability
