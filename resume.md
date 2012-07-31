@@ -20,14 +20,14 @@ Experience
 Build.com (2010 - Present)
 -----------------------------------
 Titles: UX Designer, Programmer
-* Acted as UX Designer for many internal and customer-facing projects
-* Led mobile project team to a successful launch
-* Designed and built a client and server-side website framework to facilitate high performance and touch-optimized mobile versions of our stores
+* Lead UX Designer for many internal and customer-facing projects
+* Lead developer for m.build.com
+* Designed and built critical high performance frameworks for Build.com's touch optimized store fronts
 * Created UI frameworks and documentation to standardize client-side usage and ease development for both marketing and software development
 * Spearheaded efforts to improve client-side performance
 * Designed and built tools for vendor and order management
 * Championed and administered regular usability testing
-* Led the adoption of technologies like SASS, client-side MVCs, and CoffeeScript 
+* Pioneered the use of SASS, MVCs, jQuery and JavaScript
 * Acted as local JavaScript expert for the software development and marketing departments
 
 ### Sites:
@@ -42,7 +42,7 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 
 * Championed and tutored on the use of CSS and web standards
 * Developed UI frameworks to facilitate site redesign
-* Led adoption of jQuery, A/B Testing, and XSL
+* Pioneered adoption of jQuery, A/B Testing, and XSL
 * Designed and Implemented XML driven CMS using jQuery and XSL.
 * Developed tools for API developers
 * Developed widgets for platform APIs
