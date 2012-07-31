@@ -18,25 +18,17 @@ Experience
 ==========
 Build.com (2010 - Present)
 -----------------------------------
+* UX Design
 * Front-end development
-* UX
-* Design 
 * Programming
-* IA
 * Mobile Design & Development
+* Web Performance Optimization
 
 ### Sites:
-* <http://Faucet.com>
-* <http://LightingShowplace.com>
-* <http://poconsole.com>
-* <http://omconsole.com>
-* <http://Build.com>
-* <http://FaucetDirect.com>
-* <http://LightingDirect.com>
-* <http://VentingDirect.com>
-* <http://HandleSets.com>
-* <http://PullsDirect.com>
-* <http://VentingPipe.com>
+* <http://m.build.com>
+* <http://build.com>
+* <http://faucet.com>
+* http://omconsole.com - Order and fulfillment intranet
 
 Auctiva Corporation (2006 - 2010)
 ------------------------------------
@@ -65,13 +57,19 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 
 Side Projects
 =============
-* ### [JsAces.com](http://jsaces.com) (Current)
+* ### [Navigation North](http://navigationnorth.com)
+Contract work prototyping educational tools for the Smithsonian
+
+* ### [JsAces.com](http://jsaces.com) (2009-2011)
 Part of a startup front-end development consultancy focused on developing markup and CSS frameworks.
 
-* ### [Todoosie.com](http://www.todoosie.com) (2009-Current)
-Simple todo list app I authored with some help from [@bradonweb](http://twitter.com/bradonweb)
+* ### [Pixeljs](http://pixeljs.appspot.com/level/agdwaXhlbGpzcg0LEgVMZXZlbBipwwEM) (2010-Current)
+Port of Picross to the web, focusing on user-generated content. (In develpment)
 
-* ### Bloody Bits  (2009 - Present)
+* ### [Todoosie.com](http://www.todoosie.com) (2009-2010)
+Simple todo list app I authored with help from [@bradonweb](http://twitter.com/bradonweb)
+
+* ### Bloody Bits  (2009 - 2010)
 Game Designer, writer, and developer.
 
 * ### FUG in Public (2007)
@@ -100,11 +98,11 @@ Advanced
 * Usability
 * AJAX
 * Web Perf. Optimization
-* Web Standards
-* SASS/Compass
+* SASS, Compass, Stylus
 
 Competant
 ---------
+* CoffeeScript
 * Python
 * C#
 * .Net
@@ -118,7 +116,7 @@ Competant
 * SQL
 * HTML5
 * ColdFusion
-* CoffeeScript
+
 
 Interested
 ----------
@@ -135,23 +133,11 @@ Philosophies
 * KISS
 * YAGNI
 
-OS
----
-* Windows
-* OSX
-* Ubuntu
-
-IDE
----
-* Text and Command line
-* Eclipse
-* Visual Studio
-
 Version Control
 ---------------
 * Git
 * SVN
-* VSS
+* VSS (with pain)
 
 Platforms
 ---------
@@ -163,5 +149,11 @@ Platforms
 Favorite tools
 --------------
 * Sublime Text 2
-* Firebug
-* Paper (Yes, the real kind)
+* Chrome Web Inspector
+* Paper
+* Whiteboard
+
+Additional Links
+----------------
+<https://github.com/jethrolarson>
+<http://www.jethrolarson.com>
