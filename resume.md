@@ -49,7 +49,7 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 * Developed gamification applications in Flash
 
 ### Sites:
-* [Auctiva Marketplace Platform](http://www.poweredbyamp.com)
+* PoweredByAMP.com
 * [Elefy.com](http://elefy.com)
 * [Auctiva.com](http://auctiva.com)
 * [KickItBack.com](http://kickitback.com)
