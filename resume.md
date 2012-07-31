@@ -57,25 +57,25 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 
 Side Projects
 =============
-* ### [Navigation North](http://navigationnorth.com)
+### [Navigation North](http://navigationnorth.com)
 Contract work prototyping educational tools for the Smithsonian
 
-* ### [JsAces.com](http://jsaces.com) (2009-2011)
+### [JsAces.com](http://jsaces.com) (2009-2011)
 Part of a startup front-end development consultancy focused on developing markup and CSS frameworks.
 
-* ### [Pixeljs](http://pixeljs.appspot.com/level/agdwaXhlbGpzcg0LEgVMZXZlbBipwwEM) (2010-Current)
+### [Pixeljs](http://pixeljs.appspot.com/level/agdwaXhlbGpzcg0LEgVMZXZlbBipwwEM) (2010-Current)
 Port of Picross to the web, focusing on user-generated content. (In develpment)
 
-* ### [Todoosie.com](http://www.todoosie.com) (2009-2010)
+### [Todoosie.com](http://www.todoosie.com) (2009-2010)
 Simple todo list app I authored with help from [@bradonweb](http://twitter.com/bradonweb)
 
-* ### Bloody Bits  (2009 - 2010)
+### Bloody Bits  (2009 - 2010)
 Game Designer, writer, and developer.
 
-* ### FUG in Public (2007)
+### FUG in Public (2007)
 Web Design
 
-* ### Deadmen Entertainment (2005)
+### Deadmen Entertainment (2005)
 Web Design and Development
 
 Education
