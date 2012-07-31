@@ -161,3 +161,10 @@ Additional Links
 ----------------
 * <https://github.com/jethrolarson>
 * <http://www.jethrolarson.com>
+
+Couple Notes
+------------
+* I like having time available during my work week to sharpen my saw (catch up on tech blogs, study new technologies, etc)
+* Being passionate about user experience means I have to care about the user. As such I am not okay with unethically manipulating users for short term gain.
+* I don't like extended crunch periods. A few 12 hour days for a big release is one thing, but a month of 60 hour weeks would make me very unhappy.
+* Flexible work times are appreciated. I don't like having to stress about being 5 mins late to work when there's no time-sensitive obligations.
