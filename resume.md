@@ -155,5 +155,5 @@ Favorite tools
 
 Additional Links
 ----------------
-<https://github.com/jethrolarson>
-<http://www.jethrolarson.com>
+* <https://github.com/jethrolarson>
+* <http://www.jethrolarson.com>
