@@ -16,103 +16,66 @@ Chico, CA 95926
 
 Experience
 ==========
-Improvement Direct (2010 - Present)
+Build.com (2010 - Present)
 -----------------------------------
+* UX Design
 * Front-end development
-* UI Design 
-* jQuery plugin development for multi-site application.
-* Updating Legacy HTML/CSS/JavaScript
-* ColdFusion Programming
+* Programming
+* Mobile Design & Development
+* Web Performance Optimization
 
 ### Sites:
-* <http://Build.com>
-* <http://FaucetDirect.com>
-* <http://LightingDirect.com>
-* <http://VentingDirect.com>
-* <http://HandleSets.com>
-* <http://PullsDirect.com>
-* <http://MoreHome.com>
-* <http://VentingPipe.com>
-* <http://ImprovementDirect.com>
+* <http://m.build.com>
+* <http://build.com>
+* <http://faucet.com>
+* http://omconsole.com - Order and fulfillment intranet
 
 Auctiva Corporation (2006 - 2010)
 ------------------------------------
 Titles: Web Developer, Jr. Software Engineer, Website Designer
-* Spread the use of CSS, XML, and Web Standards
-* Pioneered use of  AJAX, jQuery, Firebug, and Usability Testing
-* Held many roles including: UI Designer, Web Developer, Software Engineer, IA, UX, and Programmer
-* Promoted to Jr. Software Engineer January 2008 
-* Promoted to Web Developer March 2009
 
+* Web Design
+* UI Development
+* Widget Design & Development
+* Rapid Prototyping
+* Tools Development
+* CMS Design
+* IA
+* A/B Testing
+* Flash Development
 
-### Worked on the following Auctiva Corporation projects:
-* #### Auctiva Marketplace Platform (2009 - Present)
-  * Designed and Developed AJAX-driven widgets for integration into external sites
-  * Developed Prototypes for various products that consume their API
-  * Developed internal tools for training and reference
-
-* #### [Elefy.com](http://elefy.com) (2009 - Present)
-  Web Development, Prototyping, and UI Design.
-  
-* #### [PoweredByAMP.com](http://poweredbyamp.com) (2009 - Present)
-  UI consulting, and front-end debugging.
-
-* #### [Auctiva.com](http://auctiva.com) (2006 - 2009)
-  * Established Standards for HTML, CSS, and JavaScript
-  * Redesigned and implemented store template system leading to a 300% increase in conversion rate.
-  * Designed and created The Online Seller Blog which improved customer relations and SEO
-  * Performed font-end cleanup improving SEO, agility, and performance across the board.
-  * Implemented 2009 site redesign
-  * Pioneered AJAX use in 2006
-
-* #### [KickItBack.com](http://kickitback.com) (2006 - 2009)
-  * Front-end development
-  * Functional Prototyping
-  * AJAX Design and Development
-  * Designed and implemented Wordpress Theme
-
-* #### [BidSniper.com](http://bidsniper.com) (2007 - 2008)
-  * Architected CMS Templating System for Rapid Development using XML/XSLT
-  * Prototyped functionality and design
-  * Developed roll-out plan for future features
-
-* #### [AuctivaCommerce.com](http://auctivacommerce.com) (2008 - 2009)
-  * Developed marketing website and template system
-  * Consulted on design proposals and third party products
-  * Prototyped new features and designs
-  * Developed a CMS for help and support
-  * Proposed and implemented many UI, and IA improvements
-  * Improved code cleanliness and standards
-
-* #### [Sellathon.com](http://sellathon.com) (2008 - 2009)
-  * Worked with design team to implement redesign and front-end cleanup
-  * Set up AB testing for homepage redesign
-
-* #### [AuctionSniper.com](http://auctionsniper.com) (2006 - Present)
-  * Wireframed UI improvements
-  * Some front-end cleanup
-
-* #### [BattleBids.com](http://battlebids.com) (2007)
-  Flash Development and Prototyping
+### Sites:
+* [Auctiva Marketplace Platform](http://www.poweredbyamp.com)
+* [Elefy.com](http://elefy.com)
+* [Auctiva.com](http://auctiva.com)
+* [KickItBack.com](http://kickitback.com)
+* [BidSniper.com](http://bidsniper.com)
+* [AuctivaCommerce.com](http://auctivacommerce.com)
+* [Sellathon.com](http://sellathon.com)
+* [AuctionSniper.com](http://auctionsniper.com)
+* [BattleBids.com](http://battlebids.com)
 
 Side Projects
 =============
-* ### [JsAces.com](http://jsaces.com) (2009)
+### [Navigation North](http://navigationnorth.com) (Current)
+Contract work prototyping educational tools for the Smithsonian
+
+### [JsAces.com](http://jsaces.com) (2009-2011)
 Part of a startup front-end development consultancy focused on developing markup and CSS frameworks.
 
-* ### [Todoosie.com](http://www.todoosie.com) (2009-Current)
-Simple todo list app I authored with some help from [@bradonweb](http://twitter.com/bradonweb)
+### [Pixeljs](http://pixeljs.appspot.com/level/agdwaXhlbGpzcg0LEgVMZXZlbBipwwEM) (2010-Current)
+Port of Picross to the web, focusing on user-generated content. (In develpment)
 
-* ### Bloody Bits  (2009 - Present)
+### [Todoosie.com](http://www.todoosie.com) (2009-2010)
+Simple todo list app I authored with help from [@bradonweb](http://twitter.com/bradonweb)
+
+### Bloody Bits  (2009 - 2010)
 Game Designer, writer, and developer.
 
-* ### Lightning Biscuit (2008 - Present)
-Web Design and Development.
+### FUG in Public (2007)
+Web Design
 
-* ### FUG in Public (2007)
-Blog Template Design
-
-* ### Deadmen Entertainment (2005)
+### Deadmen Entertainment (2005)
 Web Design and Development
 
 Education
@@ -120,52 +83,48 @@ Education
 
 California State University Chico (2001-2006)
 ---------------------------------------------
-Courses taken in pursuit of BS in Applied Computer Graphics. Communication Design/Computer Science
+Courses taken in pursuit of BS in Applied Computer Graphics (Communication Design / Computer Science)
 
 Skills/Tech
 ===========
-Mastered
---------
-* CSS
-* HTML
-* jQuery
 
 Advanced
 --------
-* JavaScript
+* CSS
+* HTML
+* OO JavaScript
+* jQuery
 * UI Design
 * Usability
-* XML
 * AJAX
-* Web Standards
+* Web Perf. Optimization
+* SASS, Compass, Stylus
 
 Competant
 ---------
+* CoffeeScript
 * Python
 * C#
 * .Net
 * IA
 * SEO
+* CSS3
 * Graphic Design
 * Accessibility
 * UX
 * XSLT
-* HTTP
 * SQL
-* YAML
 * HTML5
 * ColdFusion
 
+
 Interested
 ----------
+* Node.js
 * Flash/ActionScript
-* CSS3
 * Ruby
-* RIA
 * SVG
 * Canvas
-* Haml/Sass
-* Compass
 
 Philosophies
 ------------
@@ -174,49 +133,27 @@ Philosophies
 * KISS
 * YAGNI
 
-OS
----
-* Windows XP/Vista/7
-* Linux(Ubuntu)
-* OSX
-
-IDE
----
-* Text and Command line
-* Eclipse
-* Netbeans
-* Visual Studio
-
 Version Control
 ---------------
-* VSS
-* SVN
 * Git
+* SVN
+* VSS (with pain)
 
 Platforms
 ---------
 * Google AppEngine
 * ASP.NET
 * ColdFusion
-* .NET MVC
-* Wordpress
-* Blogger
-* Ruby on Rails
-* Jekyll
-* Express
-* CommonJS
-* Staticmatic
-
-DB
----
-* SQL Server
-* MySQL
-* PostgreSQL
-* SQLite
-* Big Table(Google appEngine)
+* Node JS
 
 Favorite tools
 --------------
-* TextMate
-* Firebug
-* Paper (Yes, the real kind)
+* Sublime Text 2
+* Chrome Web Inspector
+* Paper
+* Whiteboard
+
+Additional Links
+----------------
+* <https://github.com/jethrolarson>
+* <http://www.jethrolarson.com>
