@@ -19,7 +19,7 @@ Experience
 
 Build.com (2010 - Present)
 -----------------------------------
-Titles: Programmer, UX Designer
+Titles: UX Designer, Programmer
 * Acted as UX Designer for many internal and customer-facing projects
 * Led mobile project team to a successful launch
 * Designed and built a client and server-side website framework to facilitate high performance and touch-optimized mobile versions of our stores
