@@ -57,7 +57,7 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 
 Side Projects
 =============
-### [Navigation North](http://navigationnorth.com)
+### [Navigation North](http://navigationnorth.com) (Current)
 Contract work prototyping educational tools for the Smithsonian
 
 ### [JsAces.com](http://jsaces.com) (2009-2011)
