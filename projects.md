@@ -8,7 +8,7 @@ subhead: The things I work on when I'm not working
 
 Projects
 --------------------------------------
-* [jethrolarson.github.com](http://github.com/jethrolarson.github.com) - This site.
+* [jethrolarson.github.com](http://github.com/jethrolarson/jethrolarson.github.com) - this.
 * [zenTooltip](http://github.com/jethrolarson/zentooltip) - Simple unobtrusive tooltips.
 * [zenZoom](http://github.com/jethrolarson/zentooltip) - Super simple image zoom plugin. Used below.
 * [Todoosie](http://www.todoosie.com) - Simple todo list app.
