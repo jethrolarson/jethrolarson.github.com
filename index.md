@@ -10,5 +10,5 @@ description: The personal portfolio of Web Designer/Developer Jethro Larson
 
 This is not the page you're looking for
 =======
-Please see:  
-[JethroLarson.com](http://jethrolarson.com)
+
+301: Moved Permanently to [JethroLarson.com](http://jethrolarson.com)
