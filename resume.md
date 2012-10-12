@@ -9,7 +9,8 @@ Jethro Larson
 Chico, CA 95926  
 530-781-3536  
 <jethrolarson@gmail.com>  
-<http://jethrolarson.com>  
+<http://jethrolarson.com>
+[LinkedIn](http://www.linkedin.com/in/jethrolarson)
 [Plain Text Version](http://github.com/jethrolarson/jethrolarson.github.com/raw/master/resume.md)
 
 ----
