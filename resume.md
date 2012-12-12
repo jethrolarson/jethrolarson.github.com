@@ -62,14 +62,17 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 
 Side Projects
 =============
+### [Community Care Staffing](http://communitycarestaffing.com)
+Created custom job board in wordpress for CommunityCareOptions.com
+
 ### [Navigation North](http://navigationnorth.com) (Current)
 Contract work prototyping educational tools for the Smithsonian. Acted as UX but also did significant development using Backbone, stylus, and PHP.
 
 ### [JsAces.com](http://jsaces.com) (2009-2011)
-Part of a startup front-end development consultancy focused on developing markup and CSS frameworks. Worked on a google maps widget for real estate agency CMS.
+Part of a startup front-end development consultancy focused on front end technologies. Worked on a google maps widget for real estate agency CMS.
 
 ### [Pixeljs](http://pixeljs.appspot.com/level/agdwaXhlbGpzcg0LEgVMZXZlbBipwwEM) (2010-Current)
-Port of Picross to the web, focusing on user-generated content. (In develpment)
+Creating a port of Picross in HTML5, focusing on user-generated content and social sharing. (In develpment)
 
 ### [Todoosie.com](http://www.todoosie.com) (2009-2010)
 Simple todo list app I authored with help from [@bradonweb](http://twitter.com/bradonweb)
