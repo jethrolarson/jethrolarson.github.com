@@ -17,7 +17,13 @@ Chico, CA 95926
 Experience
 ==========
 
-Build.com (2010 - Present)
+Amazon.com - Kindle Store (2013 - Current)
+-----------------------------------
+Title: Web Development Engineer
+* Lead UI Development of Store UI for 2013 Kindle Fire
+* Things I can't talk about
+
+Build.com (2010 - 2013)
 -----------------------------------
 Titles: UX Designer, Programmer
 * Lead UX Designer for many internal and customer-facing projects
