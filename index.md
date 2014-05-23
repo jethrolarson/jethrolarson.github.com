@@ -1,7 +1,7 @@
 ---
 id: index
 title: Jethro Larson - Web Developer, Designer, Craftsman
-subhead: Web Developer/Programmer for Build.com 
+subhead: Web Development Engineer II for Amazon Kindle
 layout: full
 description: The personal portfolio of Web Designer/Developer Jethro Larson
 ---
