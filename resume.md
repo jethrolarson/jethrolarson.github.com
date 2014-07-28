@@ -20,7 +20,11 @@ Experience
 Amazon.com (2013 - Present)
 ----------------------------
 Titles: Web Development Engineer, Web Development Engineer II
-* Lead UI developer for 2013 Kindle Fire
+* Web Developer for Fire Phone Bookstore
+* Speaker at Amazon WebDevCon 2014
+* Web Developer for Kindle PaperWhite
+* Lead UI developer for 2013 Fire Bookstore
+
 
 Build.com (2010 - 2013)
 -----------------------------------
