@@ -3,7 +3,7 @@ User Guide
 
 Here's some tips to get the most out of your handy new Jethro:
 
-* __Sell the vision__ - Jethro is an actual person so don't treat him like a tool you can wield at whim. Sell him on the project vision and see what he wants to do. If he believes in the vision he will deliver it better.
+* __Sell the vision__ - Jethro is an actual person so don't treat him like a tool you can wield at whim. Sell him on the project vision and see what he wants to do. If he believes in the vision you'll get Superman instead of Clark Kent.
 
 * __Communicate customer value__ - Jethro needs to understand the high-level goals and proposed customer value to work effectively. "Cuz the CEO said so" is surprisingly insufficient to get his buy-in. 
 
