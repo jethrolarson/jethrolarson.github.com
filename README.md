@@ -15,9 +15,9 @@ You have a handy new Jethro at your disposal so here's some tips to get the most
 
 * __Keep him involved in UX__ - Jethro cares a lot about user experience. It'll save time and deliver better results if you get his input during planning rather than development.
 
-* __Put him on a team__ - [https://www.youtube.com/watch?v=StTqXEQ2l-Y Everything is awesome when you're part of a team]. If working with others is unnecessary for him to accomplish your goals, he'll eventually find new goals. 
+* __Put him on a team__ - [Everything is awesome when you're part of a team](https://www.youtube.com/watch?v=StTqXEQ2l-Y). If working with others is unnecessary for him to accomplish your goals, he'll eventually find new goals. 
 
-* __Value flow__ - Work in [http://en.wikipedia.org/wiki/Flow_%28psychology%29 flow] can be 2 to 5 times more productive than work that is punctuated by interruptions, deployments, builds, and randomization. Some complex work is practically impossible out of flow. Flow state can also lead to innovations that would not happen otherwise. Investing in work to improve development flow can have similar benefits to all developers on the team.
+* __Value flow__ - Work in [flow](http://en.wikipedia.org/wiki/Flow_%28psychology%29) can be 2 to 5 times more productive than work that is punctuated by interruptions, deployments, builds, and randomization. Some complex work is practically impossible out of flow. Flow state can also lead to innovations that would not happen otherwise. Investing in work to improve development flow can have similar benefits to all developers on the team.
 
 * __Have fun__ - Interpersonal relationships are important to Jethro and his performance improves when he feels like he's working with friends. He's not always terribly outgoing though so make a point to engage him in the fun.
 
