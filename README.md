@@ -1,0 +1,24 @@
+User Guide
+------------
+
+You have a handy new Jethro at your disposal so here's some tips to get the most out of this valuable asset:
+
+* __People are People__ - Jethro is an actual person so you shouldn't treat him like a tool you can apply to problems at whim. See what he wants to do and sell him on project vision. If he believes in the vision he will deliver it better.
+
+* __Communicate Customer Value__ - Jethro needs to understand the high-level goals and customer value behind his work to work effectively. "Cuz the CEO said so" is surprisingly insufficient to get his buy in. 
+
+* __Exercise Openness__ - Jethro doesn't perform well when "handled" or kept in the dark. Communicate early, often, and trust him; he will return the favor.
+
+* __Make expectations and priorities explicit__ - If feed him waffles for breakfast you'll be eating waffles for dinner.
+
+* __Address deficiencies now__ - If Jethro isn't meeting your expectations, raise the issue as soon as you notice. It might have slipped his mind or he might have assumed that you no longer care about the thing. Don't wait for review time or leave his manager feedback when you can address the problem now.
+
+* __Keep him involved in UX__ - Jethro cares a lot about user experience. It'll save time and deliver better results if you get his input during planning rather than development.
+
+* __Put him on a team__ - [https://www.youtube.com/watch?v=StTqXEQ2l-Y Everything is awesome when you're part of a team]. If working with others is unnecessary for him to accomplish your goals, he'll eventually find new goals. 
+
+* __Value Flow__ - Work in [http://en.wikipedia.org/wiki/Flow_%28psychology%29 flow] can be 2 to 5 times more productive than work that is punctuated by interruptions, deployments, builds, and randomization. Some complex work is practically impossible out of flow. Flow state can also lead to innovations that would not happen otherwise. Investing in work to improve development flow can have similar benefits to all developers on the team.
+
+* __Have Fun__ - Interpersonal relationships are important to Jethro and his performance improves when he feels like he's working with friends. He's not always terribly outgoing though so make a point to engage him in the fun.
+
+* __Keep him Rested__ - Jethro will forget to rest when under stress and when overworked his performance and job satisfaction declines. Encourage him to take time off and help him plan for it.
