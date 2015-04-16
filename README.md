@@ -17,7 +17,7 @@ Here's some tips to get the most out of your handy new Jethro:
 
 * __Put him on a team__ - [Everything is awesome when you're part of a team](https://www.youtube.com/watch?v=StTqXEQ2l-Y). If working with others is unnecessary for him to accomplish your goals, he'll find new goals. 
 
-* __Value flow__ - Work in [flow](http://en.wikipedia.org/wiki/Flow_%28psychology%29) can be 2 to 5 times more productive than work that is punctuated by interruptions, slow development workflows, and randomization. Some complex work is practically impossible out of flow. Flow state can also lead to innovations that would not happen otherwise. Investing in work to improve development flow can have similar benefits to all developers on the team.
+* __Value flow__ - Work in [flow](http://en.wikipedia.org/wiki/Flow_%28psychology%29) is more productive than work punctuated by interruptions, slow development workflows, and randomization. Some complex work is practically impossible out of flow. Investing in work to improve development flow will benefit all developers on the team.
 
 * __Have fun__ - Interpersonal relationships are important to Jethro and his performance improves when he feels like he's working with friends. He's not always outgoing so make sure to engage him.
 
