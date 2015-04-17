@@ -8,7 +8,8 @@ Jethro Larson
 Lynnwood, WA  
 530-781-3536  
 <jethrolarson@gmail.com>  
-<http://jethrolarson.com>  
+<http://jethrolarson.com>
+[LinkedIn](http://www.linkedin.com/in/jethrolarson)  
 [Plain Text Version](http://github.com/jethrolarson/jethrolarson.github.com/raw/master/resume.md)
 
 ----
@@ -22,12 +23,15 @@ Title: Web Development Engineer II
 
 * Developed new features on order history pages.
 
-Amazon.com - Kindle Store (2013 - 2014)
------------------------------------
-Title: Web Development Engineer
 
-* Lead UI Development of Store UI for 2013 Kindle Fire
-* Things I can't talk about
+Amazon Kindle (2013 - 2014)
+----------------------------
+Titles: Web Development Engineer, Web Development Engineer II
+* Web Developer for Fire Phone Bookstore
+* Speaker at Amazon WebDevCon 2014
+* Web Developer for Kindle PaperWhite
+* Lead UI developer for 2013 Fire Bookstore
+
 
 Build.com (2010 - 2013)
 -----------------------------------
@@ -77,6 +81,9 @@ Side Projects
 
 ### [Ramda](http://ramdajs.com/)(2014-2015)
 Contributer to open-source functional JavaScript library. Think underscore but with a different philosophy.
+
+### [Community Care Staffing](http://communitycarestaffing.com) (2012)
+Created custom job board in wordpress for CommunityCareOptions.com
 
 ### [Navigation North](http://navigationnorth.com) (2012)
 Contract work prototyping educational tools for the Smithsonian. Acted as UX but also did significant development using Backbone, stylus, and PHP.
@@ -175,3 +182,4 @@ Additional Links
 ----------------
 * <https://github.com/jethrolarson>
 * <http://www.jethrolarson.com>
+* [Jethro User Guide](https://github.com/jethrolarson/jethrolarson.github.com/blob/master/README.md)
