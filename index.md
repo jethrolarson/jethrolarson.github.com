@@ -1,7 +1,7 @@
 ---
 id: index
 title: Jethro Larson - Web Developer, Designer, Craftsman
-subhead: Web Developer/Programmer for Build.com 
+subhead: Web Development Engineer at Amazon
 layout: full
 description: The personal portfolio of Web Designer/Developer Jethro Larson
 ---
@@ -13,7 +13,7 @@ description: The personal portfolio of Web Designer/Developer Jethro Larson
 * UI design
 * Rapid Prototyping
 
-Turn ons 
+Turn ons
 --------
 * UX focused team
 * Agile attitude
@@ -23,4 +23,4 @@ Turn Offs
 ---------
 * Bureaucracy
 * Code bloat
-* Featuritis 
+* Featuritis
