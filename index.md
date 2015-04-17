@@ -6,19 +6,41 @@ layout: full
 description: The personal portfolio of Web Designer/Developer Jethro Larson
 ---
 
-<img id="picture" src="/images/ohYeah_small.jpg" alt="Oh Yeaaah!"/>
+<img class="Portrait" src="/images/ohYeah_small.jpg" alt="Oh Yeaaah!"/>
 
-This is not the page you're looking for
-=======
+Client-side
+---
 
-Turn ons
---------
-* UX focused team
-* Agile attitude
-* Family friendly
+* JavaScript
+* CSS
+* HTML
+* Mobile
 
-Turn Offs
----------
-* Bureaucracy
-* Code bloat
-* Featuritis
+Server-side
+---
+
+* Node.js
+* Python
+* Ruby
+* etc
+
+---
+
+<div class="grid">
+    <div class="grid-cell u-size-half">
+        <h2>Turn ons</h2>
+        <ul>
+            <li>Creating kick ass users</li>
+            <li>Standards-based thinking</li>
+            <li>Customer Obsession</li>
+        </ul>
+    </div>
+    <div class="grid-cell u-size-half">
+        <h2>Turn Offs</h2>
+        <ul>
+            <li>Fear</li>
+            <li>Psychopaths</li>
+            <li>Wizards</li>
+        </ul>
+    </div>
+</div>

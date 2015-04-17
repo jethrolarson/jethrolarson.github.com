@@ -27,6 +27,7 @@ Title: Web Development Engineer II
 Amazon Kindle (2013 - 2014)
 ----------------------------
 Titles: Web Development Engineer, Web Development Engineer II
+
 * Web Developer for Fire Phone Bookstore
 * Speaker at Amazon WebDevCon 2014
 * Web Developer for Kindle PaperWhite

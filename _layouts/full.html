@@ -3,6 +3,8 @@
 <head>
   <title>{{page.title}}</title>
   <link rel="SHORTCUT ICON" href="/favicon.ico"/>
+  <link href="css/normalize.css" rel="stylesheet" />
+  <link href="css/default.css" rel="stylesheet" />
   <link href="css/portfolio.css" rel="stylesheet" />
   <meta name="description" content="{{page.description}}"/>
   <meta name="updated" content="{{page.time}}" />
@@ -11,44 +13,20 @@
   <![endif]-->
 </head>
 <body id="{{page.id}}">
-  <div id="page">
-    <header id="header">
-      <h1><a href="/">Jethro Larson</a></h1>
-      <nav id="mainNav">
+  <div class="Page">
+    <header class="Header">
+      <h1 class="Logo"><a href="/">Jethro Larson</a></h1>
+      <nav class="MainNav">
         <ul>
-           <li id="tab_index">
-            <a href='/index.html'>Home</a>
-          </li>
-          <li><a href="/resume.html">R&eacute;sum&eacute;</a></li>
-          <li id="tab_projects">
-            <a href='/projects.html'>Projects</a>
-          </li>
+          <li class="MainNav-item" ><a href="/resume.html">R&eacute;sum&eacute;</a></li>
+          <li class="MainNav-item" ><a href="https://www.linkedin.com/profile/view?id=13218061" >LinkedIn</a></li>
+          <li class="MainNav-item MainNav-item--github" ><a href="http://github.com/jethrolarson"><img src="/images/GitHub-Mark-32px.png" alt="Github" height="24"/></a></li>
         </ul>
       </nav>
     </header>
-    <div id="body">
-      <p class="note">{{page.subhead}}</p>
-      <div id="content">
+    <div class="Content">
+      <p class="SubHeading">{{page.subhead}}</p>
       {{content}}
-      </div>
     </div>
-    <footer id="footer">
-      <div id="tweetWrap">
-        <p id="tweet">
-          <a href="https://twitter.com/jethrolarson">@jethrolarson</a>:<a class="avatar" href="https://twitter.com/jethrolarson"><img src="/images/avatar_bigger_bw.jpg" alt="twitter @jethrolarson"/></a>
-          <span id="tweetContent">Twitter changed their api and I haven't gotten around to updating the integration.</span>
-          <nobr><a rel='bookmark' href="#" id="tweetDate">Years ago</a></nobr>
-        </p>
-      </div>
-      <h3>Jethro Elsewhere</h3>
-      <ul>
-        <li><a href="https://www.linkedin.com/profile/view?id=13218061">LinkedIn</a></li>
-        <li><a href="http://github.com/jethrolarson">github</a></li>
-        <li>gmail: jethrolarson</li>
-      </ul>
-    </footer>
-  </div><!--/#page-->
-  <script src="/js/jquery-1.4.2.min.js"></script>
-  <script src="/js/full.js"></script>
 </body>
 </html>
