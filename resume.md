@@ -21,7 +21,7 @@ Amazon.com - CS Tech (2014 - Current)
 -----------------------------------
 Title: Web Development Engineer II
 
-* Developed new features on order history pages.
+* Added support for [Amazon Business](http://www.amazon.com/b) (large b2b orders) to Amazon account pages.
 
 
 Amazon Kindle (2013 - 2014)
@@ -83,7 +83,7 @@ Side Projects
 ### [Ramda](http://ramdajs.com/)(2014-2015)
 Contributer to open-source functional JavaScript library. Think underscore but with a different philosophy.
 
-### [Community Care Staffing](http://communitycarestaffing.com) (2012)
+### Community Care Staffing (2012)
 Created custom job board in wordpress for CommunityCareOptions.com
 
 ### [Navigation North](http://navigationnorth.com) (2012)
@@ -92,14 +92,11 @@ Contract work prototyping [educational tools for the Smithsonian](http://scems.n
 ### JsAces.com (2009-2011)
 Part of a startup front-end development consultancy focused on developing markup and CSS frameworks. Worked on a google maps widget for real estate agency CMS.
 
-### [Todoosie.com](http://www.todoosie.com) (2009-2010)
+### Todoosie.com (2009-2010)
 Simple collaborative todo list app I authored with help from [@bradonweb](http://twitter.com/bradonweb)
 
 ### Bloody Bits  (2009 - 2010)
 Game Designer, writer, and developer.
-
-### FUG in Public (2007)
-Web Design
 
 ### Deadmen Entertainment (2005)
 Web Design and Development
@@ -118,7 +115,7 @@ Advanced
 --------
 * CSS
 * HTML
-* JavaScript
+* Functional JavaScript
 * jQuery
 * UI Design
 * Usability
@@ -135,22 +132,23 @@ Competant
 * .Net
 * IA
 * SEO
-* CSS3
 * Graphic Design
 * Accessibility
-* UX
+* UX Design
 * XSLT
 * SQL
 * HTML5
 * ColdFusion
 * Apache
 * Canvas
+* React
 
 Interested
 ----------
-* Node.js
-* Ruby
-* SVG
+* Clojure
+* Haskell
+* Scala
+* Elm
 
 Philosophies
 ------------
@@ -174,7 +172,8 @@ Platforms
 
 Favorite tools
 --------------
-* Sublime Text
+* Atom
+* Vim
 * Chrome Web Inspector
 * Paper (yes, real paper)
 * Whiteboard
