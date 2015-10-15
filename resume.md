@@ -87,7 +87,7 @@ Contributer to open-source functional JavaScript library. Think underscore but w
 Created custom job board in wordpress for CommunityCareOptions.com
 
 ### [Navigation North](http://navigationnorth.com) (2012)
-Contract work prototyping educational tools for the Smithsonian. Acted as UX but also did significant development using Backbone, stylus, and PHP.
+Contract work prototyping [educational tools for the Smithsonian](http://scems.navnorth.com). Acted as UX but also did significant development using Backbone, stylus, and PHP.
 
 ### JsAces.com (2009-2011)
 Part of a startup front-end development consultancy focused on developing markup and CSS frameworks. Worked on a google maps widget for real estate agency CMS.
