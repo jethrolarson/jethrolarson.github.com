@@ -21,28 +21,28 @@ Amazon.com - CS Tech (2014 - Current)
 -----------------------------------
 Title: Web Development Engineer II
 
-•	Built UI to support pallet deliveries on Amazon.com account pages.
-•	Revitalize old order management pages to meet.
-•	Added support for Amazon Business (B2B) orders to Amazon account pages.
-•	Added alternate views to order pages to support large orders.
-•	Created command line tools to reduce developer errors.
-•	Created augmentations to code review software to improve adherence to guidelines and best practices.
-•	Active member of JavaScript Excellence Team, a virtual team that seeks to improve the craft of front end development at Amazon.
+*	Built UI to support pallet deliveries on Amazon.com account pages.
+*	Revitalize old order management pages to meet.
+*	Added support for Amazon Business (B2B) orders to Amazon account pages.
+*	Added alternate views to order pages to support large orders.
+*	Created command line tools to reduce developer errors.
+*	Created augmentations to code review software to improve adherence to guidelines and best practices.
+*	Active member of JavaScript Excellence Team, a virtual team that seeks to improve the craft of front end development at Amazon.
 
 
 Amazon Kindle (2013 - 2014)
 ----------------------------
 Titles: Web Development Engineer, Web Development Engineer II
 
-•	Implemented 2014 Kindle Fire theme for Fire Bookstore.
-•	Web Developer for Fire Phone Bookstore.
-•	Implemented screen reader support for Fire and Fire Phone bookstore.
-•	Speaker at Amazon WebDevCon 2014.
-•	Developed cross-org UI framework to reduce effort of annual redesigns and improve compliance to style guidelines.
-•	Led effort to converge platform code across multiple bookstore teams.
-•	Profiled memory problems and provided development options on Kindle PaperWhite.
-•	Added support for new pixel densities to 2014 Kindle PaperWhite.
-•	Led UI development of 2013 Kindle Fire theme on bookstore.
+*	Implemented 2014 Kindle Fire theme for Fire Bookstore.
+*	Web Developer for Fire Phone Bookstore.
+*	Implemented screen reader support for Fire and Fire Phone bookstore.
+*	Speaker at Amazon WebDevCon 2014.
+*	Developed cross-org UI framework to reduce effort of annual redesigns and improve compliance to style guidelines.
+*	Led effort to converge platform code across multiple bookstore teams.
+*	Profiled memory problems and provided development options on Kindle PaperWhite.
+*	Added support for new pixel densities to 2014 Kindle PaperWhite.
+*	Led UI development of 2013 Kindle Fire theme on bookstore.
 
 
 Build.com (2010 - 2013)
