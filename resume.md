@@ -91,7 +91,7 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 Side Projects
 =============
 
-### [Ramda](http://ramdajs.com/)(2014-2015)
+### [Ramda](http://ramdajs.com/) (2014-2015)
 Contributer to open-source functional JavaScript library. Think underscore but with a different philosophy.
 
 ### Community Care Staffing (2012)
