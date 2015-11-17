@@ -11,17 +11,18 @@ description: The personal portfolio of Web Designer/Developer Jethro Larson
 Client-side
 ---
 
-* JavaScript
-* CSS
-* HTML
-* Mobile
+* Functional and OO  
+  JavaScript
+* CSS3
+* HTML5
+* Mobile First
 
 Server-side
 ---
 
 * Node.js
 * Python
-* Ruby
+* Perl
 * etc
 
 ---
@@ -31,15 +32,16 @@ Server-side
         <h2>Turn ons</h2>
         <ul>
             <li>Creating kick ass users</li>
-            <li>Standards-based thinking</li>
+            <li>HiFi UX</li>
             <li>Customer Obsession</li>
+            <li>Elegant code</li>
         </ul>
     </div>
     <div class="grid-cell u-size-half">
         <h2>Turn Offs</h2>
         <ul>
             <li>Fear</li>
-            <li>Psychopaths</li>
+            <li><a href="http://darkpatterns.org">Dark Patterns</a></li>
             <li>Wizards</li>
         </ul>
     </div>
