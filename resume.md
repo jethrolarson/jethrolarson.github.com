@@ -22,7 +22,7 @@ Amazon.com - CS Tech (2014 - Current)
 Title: Web Development Engineer II
 
 *	Built UI to support pallet deliveries on Amazon.com account pages.
-*	Revitalize old order management pages to meet.
+*	Revitalize old order management pages to meet modern Amazon styles.
 *	Added support for Amazon Business (B2B) orders to Amazon account pages.
 *	Added alternate views to order pages to support large orders.
 *	Created command line tools to reduce developer errors.
