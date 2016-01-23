@@ -1,7 +1,7 @@
 ---
 id: index
 title: Jethro Larson - Web Developer, Designer, Craftsman
-subhead: Web Development Engineer at Amazon
+subhead: Developer. Designer. Craftsman.
 layout: full
 description: The personal portfolio of Web Designer/Developer Jethro Larson
 ---
