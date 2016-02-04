@@ -17,7 +17,13 @@ Lynnwood, WA
 Experience
 ==========
 
-Amazon.com - CS Tech (2014 - Current)
+Sinclair Digital (2015 - Current)
+---------------------------------
+Title: Senior User Experience Developer
+
+* TBD/Secret
+
+Amazon.com - CS Tech (2014 - 2015)
 -----------------------------------
 Title: Web Development Engineer II
 
