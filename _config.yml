@@ -1,7 +1,7 @@
 destination: ./_site
 auto:        true
 port: 4000
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 permalink:   date
 maruku:
