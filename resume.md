@@ -17,11 +17,10 @@ Lynnwood, WA
 Experience
 ==========
 
-Sinclair Digital (2015 - Current)
+Sinclair Digital (2016 - Current)
 ---------------------------------
 Title: Senior User Experience Developer
-
-* TBD/Secret
+* Led development of CMS for upcomming circa.com news app
 
 Amazon.com - CS Tech (2014 - 2015)
 -----------------------------------
