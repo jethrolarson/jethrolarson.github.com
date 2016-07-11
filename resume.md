@@ -130,9 +130,9 @@ Skills/Tech
 
 Advanced
 --------
+* Functional JavaScript
 * CSS
 * HTML
-* Functional JavaScript
 * jQuery
 * UI Design
 * Usability
@@ -144,9 +144,6 @@ Competant
 ---------
 * CoffeeScript
 * Perl
-* Python
-* C#
-* .Net
 * IA
 * SEO
 * Accessibility
@@ -154,29 +151,29 @@ Competant
 * XSLT
 * SQL
 * HTML5
-* ColdFusion
 * Apache
 * Canvas
 * React.js
 * Git
 * SVN
 * Google AppEngine
-* ASP.NET
 * Mason
-* ColdFusion
 * Node JS
 
 Studying
 ----------
-* Clojure
+* Elm
 * Haskell
+* Clojure
 
 Philosophies
 ------------
 * DRY
 * POSH
+* DRY
 * KISS
 * YAGNI
+* DRY
 
 Additional Links
 ----------------
