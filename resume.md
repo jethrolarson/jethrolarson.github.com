@@ -14,13 +14,21 @@ Lynnwood, WA
 
 ----
 
+I've been doing front end web development for more than 10 years. In that time I've used several languages, dozens of libraries and several different framewoks. I've written JavaScript libraries for my teams and open source, written CSS and widget frameworks from scratch viewed by millions of users around the world. I've given talks in front of hundreds of developers. I've evangelized user experience, tutored, and mentored other developers. I've run large and small projects. I've been a JavaScript developer, CSS expert, App Developer, E-ink Developer, Backend Developer, UI Designer, UX Designer, Scrummaster, Project Lead, and Team Lead.
+
 Experience
 ==========
-
-Sinclair Digital (2016 - Current)
+Sinclair Digital (2016 - 2017)
 ---------------------------------
-Title: Senior User Experience Developer
-* Led development of CMS for upcomming circa.com news app
+Titles: Lead UX Developer,  Senior UX Developer
+* Mentored other devs
+* Led technical planing and esitmation for several initiatives
+* Led effort to improve test coverage
+* Gave lessons on beginner and intermediate functional programming for the UX Development group
+* Guildmaster for the UX Developer guild
+* Rewote big parts of a backbone application in React, improving test coverage and the UX along the way.
+* Worked on Facebook Live integration
+* Led development of CMS for circa.com news app
 
 Amazon.com - CS Tech (2014 - 2015)
 -----------------------------------
@@ -128,54 +136,47 @@ Courses taken in pursuit of BS in Applied Computer Graphics (Communication Desig
 Skills/Tech
 ===========
 
-Advanced
---------
-* Functional JavaScript
-* CSS
-* HTML
-* jQuery
-* UI Design
-* Usability
-* AJAX
-* Web Perf. Optimization
-* SASS, Compass, Stylus
+JavaScript Skills
+-----------------
+* Functional Programming - A monad is just a monoid in the category of endofunctors, what's the problem?
+* React and friends - HTML templating is sooo 2014
+* Backbone - event binding hell
+* Object Oriented Programming - I can use the prototype to prototype some prototypes
+* jQuery - I guess people still use this
 
-Competant
+CSS Skills
+----------
+* Stylus, SASS, Less, PostCSS, CSS modules
+* OOCSS, SMACS, BEM, SUIT
+* Bootstrap and other CSS frameworks I don't want to not to remember
+* I've written CSS frameworks from scratch for several companies, including Amazon
+* Mobile, desktop, and web views
+
+Some more keywords you may be looking for
 ---------
-* CoffeeScript
-* Perl
-* IA
-* SEO
-* Accessibility
-* UX Design
-* XSLT
-* SQL
-* HTML5
-* Apache
-* Canvas
-* React.js
-* Git
-* SVN
-* Google AppEngine
-* Mason
-* Node JS
+* CoffeeScript, Elm, Perl
+* SEO black and white hat
+* Screen readers and mobile and desktop.
+* Canvas, SVG
+* React.js, Angular, Backbone, jQuery, Ramda, Lodash, Folktale, RxJS
+* Git, SVN
+* Node JS, Rhino, Narwhal, JAWS
+* QUnit, Tape, Mocha, Chai, Karma, Phantom, Selenium
+* HTML 5, Web Components
+* Handlebars, Jade, ASP, Dust, wrote my own templating framework
+* ES6, ES2015, TC39 Proposals sure why not
+* WebStorm, Atom, Vim, Sublime, Whiteboards
+* Agile, Kanban, Scrum, Cowboy, Just Fucking Ship It
+
+Design Skills
+-------------
+* Paper prototyping, wireframing
+* Rapid prototyping
+* Usability Studies
 
 Studying
 ----------
 * Elm
 * Haskell
+* Purescript
 * Clojure
-
-Philosophies
-------------
-* DRY
-* POSH
-* DRY
-* KISS
-* YAGNI
-* DRY
-
-Additional Links
-----------------
-* <https://github.com/jethrolarson>
-* <http://www.jethrolarson.com>
