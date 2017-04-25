@@ -14,7 +14,7 @@ Lynnwood, WA
 
 ----
 
-I've been doing front end web development for more than 10 years. In that time I've used several languages, dozens of libraries and several different framewoks. I've written JavaScript libraries for my teams and open source, written CSS and widget frameworks from scratch viewed by millions of users around the world. I've given talks in front of hundreds of developers. I've evangelized user experience, tutored, and mentored other developers. I've run large and small projects. I've been a JavaScript developer, CSS expert, App Developer, E-ink Developer, Backend Developer, UI Designer, UX Designer, Scrummaster, Project Lead, and Team Lead.
+I've been doing front end web development for more than 10 years. In that time I've used several languages, dozens of libraries and a bunch of different framewoks. I've written JavaScript libraries for my teams and open source, written CSS and widget frameworks viewed by millions of users around the world. I've given talks in front of hundreds of developers. I've evangelized user experience, tutored, and mentored other developers. I've run large and small projects. I've been a JavaScript developer, CSS expert, App Developer, E-ink Developer, Backend Developer, UI Designer, UX Designer, Scrummaster, Project Lead, and Team Lead.
 
 Experience
 ==========
@@ -72,12 +72,6 @@ Titles: UX Designer, Programmer
 * Pioneered the use of SASS, MVCs, jQuery and JavaScript.
 * Acted as local JavaScript expert for the software development and marketing departments.
 
-### Sites:
-* <http://m.build.com>
-* <http://build.com>
-* <http://faucet.com>
-* http://omconsole.com - Order and fulfillment intranet
-
 Auctiva Corporation (2006 - 2010)
 ------------------------------------
 Titles: Web Developer, Jr. Software Engineer, Website Designer
@@ -89,17 +83,7 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 * Developed tools for API developers.
 * Developed widgets for platform APIs.
 * Developed gamification applications in Flash.
-
-### Sites:
-* PoweredByAMP.com
-* Elefy.com
-* [Auctiva.com](http://auctiva.com)
-* [KickItBack.com](http://kickitback.com)
-* [BidSniper.com](http://bidsniper.com)
-* [AuctivaCommerce.com](http://auctivacommerce.com)
-* [Sellathon.com](http://sellathon.com)
-* [AuctionSniper.com](http://auctionsniper.com)
-* [BattleBids.com](http://battlebids.com)
+* Worked on the UI of 9 different sites
 
 Side Projects
 =============
@@ -165,7 +149,7 @@ Some more keywords you may be looking for
 * HTML 5, Web Components
 * Handlebars, Jade, ASP, Dust, wrote my own templating framework
 * ES6, ES2015, TC39 Proposals sure why not
-* WebStorm, Atom, Vim, Sublime, Whiteboards
+* WebStorm, Atom, VIM, Sublime, Whiteboards, Terminal
 * Agile, Kanban, Scrum, Cowboy, Just Fucking Ship It
 
 Design Skills
