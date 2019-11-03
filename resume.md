@@ -14,13 +14,15 @@ Lynnwood, WA
 
 ----
 
-I've been developing web software for more than 13 years. In that time I've used several languages, dozens of libraries and a bunch of different framewoks. I've written JavaScript and TypeScript libraries for my teams and open source, written CSS and widget frameworks viewed by ten of millions of users around the world. I've given talks in front of hundreds of developers. I've evangelized user experience, tutored, and mentored other developers. I've run large and small projects. I've been a JavaScript developer, CSS expert, App Developer, E-ink Developer, Backend Developer, UI Designer, UX Designer, Scrummaster, Project Lead, Team Lead, Product Owner, Project Manager, and Development Manager. If you need someone with web development expertise that can wear a bunch of hats and help a team deliver cool shit, I'm a good pick.
+I've been developing web software for more than 13 years. In that time I've used several languages, dozens of libraries and a bunch of different framewoks. I've written JavaScript and TypeScript libraries for my teams and open source, written CSS and widget frameworks viewed by ten of millions of users around the world. I've given talks in front of hundreds of developers. I've evangelized user experience, tutored, and mentored other developers. I've run large and small projects. I've been a JavaScript developer, CSS expert, App Developer, E-ink Developer, Backend Developer, UI Designer, UX Designer, Scrummaster, Project Lead, Team Lead, Product Owner, Project Manager, and Development Manager. 
 
-Experience
-==========
-Sinclair Digital (2016 - Current)
----------------------------------
+If you need someone with web development expertise that can wear a bunch of hats and help a team deliver cool shit, I'm a good pick.
+
+# Experience
+
+## Sinclair Digital (2016 - Current)
 Titles: Software Development Manager, Senior Software Engineer, Lead UX Developer,  Senior UX Developer
+
 * Managed small and large teams (4-12 people)
 * Led integration efforts to coordinate the work of multiple teams
 * Led hiring efforts of developers and testers
@@ -34,8 +36,7 @@ Titles: Software Development Manager, Senior Software Engineer, Lead UX Develope
 * Worked on Facebook Live integration
 * Led development of CMS for circa.com news app
 
-Amazon.com - CS Tech (2014 - 2015)
------------------------------------
+## Amazon.com - CS Tech (2014 - 2015)
 Title: Web Development Engineer II
 
 *	Built UI to support pallet deliveries on Amazon.com account pages.
@@ -47,8 +48,7 @@ Title: Web Development Engineer II
 *	Active member of JavaScript Excellence Team, a virtual team that seeks to improve the craft of front end development at Amazon.
 
 
-Amazon Kindle (2013 - 2014)
-----------------------------
+## Amazon Kindle (2013 - 2014)
 Titles: Web Development Engineer, Web Development Engineer II
 
 *	Implemented 2014 Kindle Fire theme for Fire Bookstore.
@@ -62,8 +62,7 @@ Titles: Web Development Engineer, Web Development Engineer II
 *	Led UI development of 2013 Kindle Fire theme on bookstore.
 
 
-Build.com (2010 - 2013)
------------------------------------
+## Build.com (2010 - 2013)
 Titles: UX Designer, Programmer
 
 * Lead UX Designer for many internal and customer-facing projects.
@@ -76,8 +75,7 @@ Titles: UX Designer, Programmer
 * Pioneered the use of SASS, MVCs, jQuery and JavaScript.
 * Acted as local JavaScript expert for the software development and marketing departments.
 
-Auctiva Corporation (2006 - 2010)
-------------------------------------
+## Auctiva Corporation (2006 - 2010)
 Titles: Web Developer, Jr. Software Engineer, Website Designer
 
 * Championed and tutored on the use of CSS and web standards.
@@ -89,8 +87,7 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 * Developed gamification applications in Flash.
 * Worked on the UI of 9 different sites
 
-Side Projects
-=============
+# Side Projects
 
 ### [Ramda](http://ramdajs.com/) (2014-2017)
 Contributer to open-source functional JavaScript library. Think underscore but with a different philosophy.
@@ -114,56 +111,52 @@ Game Designer, writer, and developer.
 ### Deadmen Entertainment (2005)
 Web Design and Development
 
-Education
-=========
+# Education
 
-California State University Chico (2001-2006)
----------------------------------------------
+## California State University Chico (2001-2006)
+
 Courses taken in pursuit of BS in Applied Computer Graphics (Communication Design / Computer Science)
 
-Skills/Tech
-===========
+# Skills/Tech
 
-JavaScript Skills
------------------
+## JavaScript Skills
+
 * Functional Programming - A monad is just a monoid in the category of endofunctors, what's the problem?
 * React and friends - HTML templating is sooo 2014
-* Backbone - event binding hell
 * Object Oriented Programming - I can use the prototype to prototype some prototypes
-* jQuery - I guess people still use this
 
-CSS Skills
-----------
+## CSS Skills
+
 * Stylus, SASS, Less, PostCSS, CSS modules
 * OOCSS, SMACS, BEM, SUIT
 * Bootstrap and other CSS frameworks I don't want to not to remember
 * I've written CSS frameworks from scratch for several companies, including Amazon
 * Mobile, desktop, and web views
 
-Some more keywords you may be looking for
----------
-* CoffeeScript, Elm, Perl
-* SEO black and white hat
+## Some more keywords you may be looking for
+
+* Software Architecture
+* TypeScript
+* CoffeeScript, Elm
+* SEO
 * Screen readers and mobile and desktop.
 * Canvas, SVG
 * React.js, Angular, Backbone, jQuery, Ramda, Lodash, Folktale, RxJS
 * Git, SVN
-* Node JS, Rhino, Narwhal, JAWS
-* QUnit, Tape, Mocha, Chai, Karma, Phantom, Selenium
-* HTML 5, Web Components
-* Handlebars, Jade, ASP, Dust, wrote my own templating framework
-* ES6, ES2015, TC39 Proposals sure why not
-* WebStorm, Atom, VIM, Sublime, Whiteboards, Terminal
-* Agile, Kanban, Scrum, Cowboy, Just Fucking Ship It
+* Node JS
+* Jest, QUnit, Tape, Mocha, Chai, Karma, Phantom
+* Handlebars, Jade, ASP, Dust
+* ESNext, ES6, ES2015, etc
+* Agile, Kanban, Scrum, Cowboy, Ship It
 
-Design Skills
--------------
+## Design Skills
+
 * Paper prototyping, wireframing
 * Rapid prototyping
 * Usability Studies
 
-Studying
-----------
+## Interested in
+
 * Elm
 * Haskell
 * Purescript
