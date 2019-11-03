@@ -14,19 +14,23 @@ Lynnwood, WA
 
 ----
 
-I've been doing front end web development for more than 10 years. In that time I've used several languages, dozens of libraries and a bunch of different framewoks. I've written JavaScript libraries for my teams and open source, written CSS and widget frameworks viewed by millions of users around the world. I've given talks in front of hundreds of developers. I've evangelized user experience, tutored, and mentored other developers. I've run large and small projects. I've been a JavaScript developer, CSS expert, App Developer, E-ink Developer, Backend Developer, UI Designer, UX Designer, Scrummaster, Project Lead, and Team Lead.
+I've been developing web software for more than 13 years. In that time I've used several languages, dozens of libraries and a bunch of different framewoks. I've written JavaScript libraries for my teams and open source, written CSS and widget frameworks viewed by ten of millions of users around the world. I've given talks in front of hundreds of developers. I've evangelized user experience, tutored, and mentored other developers. I've run large and small projects. I've been a JavaScript developer, CSS expert, App Developer, E-ink Developer, Backend Developer, UI Designer, UX Designer, Scrummaster, Project Lead, Team Lead, Product Owner, Project Manager, and Development Manager. If you need someone with web development expertise that can wear a bunch of hats and help a team deliver cool shit, I'm a good pick.
 
 Experience
 ==========
-Sinclair Digital (2016 - 2017)
+Sinclair Digital (2016 - Current)
 ---------------------------------
-Titles: Lead UX Developer,  Senior UX Developer
-* Mentored other devs
+Titles: Software Development Manager, Senior Software Engineer, Lead UX Developer,  Senior UX Developer
+* Managed small and large teams (4-12 people)
+* Led integration efforts to coordinate the work of multiple teams
+* Led hiring efforts of developers and testers
+* Mentored developers as peer and as manager
 * Led technical planing and esitmation for several initiatives
 * Led effort to improve test coverage
-* Gave lessons on beginner and intermediate functional programming for the UX Development group
-* Guildmaster for the UX Developer guild
+* Gave lessons on beginner and intermediate functional programming
+* Organized the Developer Guild
 * Rewote big parts of a backbone application in React, improving test coverage and the UX along the way.
+* Designed, led, and built CMS for Tennis Channel and STIRR OTT apps.
 * Worked on Facebook Live integration
 * Led development of CMS for circa.com news app
 
