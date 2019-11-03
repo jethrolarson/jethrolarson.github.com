@@ -1,21 +1,21 @@
 ---
 id: index
-title: Jethro Larson - Web Developer, Designer, Craftsman
-subhead: Developer. Designer. Craftsman.
+title: Jethro Larson - Leader, Developer, Designer, Craftsman
+subhead: Leader. Developer. Designer. Craftsman.
 layout: full
-description: The personal portfolio of Web Designer/Developer Jethro Larson
+description: The out of date personal portfolio of Jethro Larson
 ---
 
-<img class="Portrait" src="/images/ohYeah_small.jpg" alt="Oh Yeaaah!"/>
+<img class="Portrait" src="/images/Halloween2018.jpg" alt="Spoopy!"/>
 
 Client-side
 ---
 
-* Functional and OO  
-  JavaScript
+* Functional TypeScript
 * CSS3
 * HTML5
 * Mobile First
+* React, new-hotness.js
 
 Server-side
 ---
@@ -34,7 +34,7 @@ Server-side
             <li>Creating kick ass users</li>
             <li>HiFi UX</li>
             <li>Customer Obsession</li>
-            <li>Elegant code</li>
+            <li>Simplicity</li>
         </ul>
     </div>
     <div class="grid-cell u-size-half">
@@ -43,6 +43,7 @@ Server-side
             <li>Fear</li>
             <li><a href="http://darkpatterns.org">Dark Patterns</a></li>
             <li>Wizards</li>
+            <li>Political Drama</li>
         </ul>
     </div>
 </div>
