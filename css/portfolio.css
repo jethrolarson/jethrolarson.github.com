@@ -54,7 +54,8 @@ list-style:none }
 
 .Portrait{
     float:right;
-    margin: 0 0 12px 12px;}
+    margin: 0 0 12px 12px;
+    width: 425px;}
 
 /* modern grid system lol */
 .grid {
