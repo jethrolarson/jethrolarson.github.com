@@ -89,12 +89,6 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 
 # Side Projects
 
-### [Ramda](http://ramdajs.com/) (2014-2017)
-Contributer to open-source functional JavaScript library. Think underscore but with a different philosophy.
-
-### Community Care Staffing (2012)
-Created custom job board in wordpress for CommunityCareOptions.com
-
 ### [Navigation North](http://navigationnorth.com) (2012)
 
 Contract work prototyping educational tools for the Smithsonian <https://learninglab.si.edu>. Acted as UX Designer but also did significant development using Backbone, stylus, and PHP. Also created visualization for education Common Core Standards.
@@ -103,10 +97,7 @@ Contract work prototyping educational tools for the Smithsonian <https://learnin
 Part of a startup front-end development consultancy focused on developing markup and CSS frameworks. Worked on a google maps widget for real estate agency CMS.
 
 ### Todoosie.com (2009-2010)
-Simple collaborative todo list app I authored with from [@bradonweb](http://twitter.com/bradonweb)
-
-### Bloody Bits  (2009 - 2010)
-Game Designer, writer, and developer.
+Simple collaborative todo list app I authored with a coworker
 
 ### Deadmen Entertainment (2005)
 Web Design and Development
@@ -121,9 +112,9 @@ Courses taken in pursuit of BS in Applied Computer Graphics (Communication Desig
 
 ## JavaScript Skills
 
-* Functional Programming - A monad is just a monoid in the category of endofunctors, what's the problem?
+* Functional Programming
 * React and friends - HTML templating is sooo 2014
-* Object Oriented Programming - I can use the prototype to prototype some prototypes
+* Object Oriented Programming - I can use prototypes to prototype some prototypes
 
 ## CSS Skills
 
