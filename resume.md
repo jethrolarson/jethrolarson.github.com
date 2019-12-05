@@ -27,11 +27,11 @@ Titles: Software Development Manager, Senior Software Engineer, Lead UX Develope
 * Led integration efforts to coordinate the work of multiple teams
 * Led hiring efforts of developers and testers
 * Mentored developers as peer and as manager
-* Led technical planing and esitmation for several initiatives
+* Led technical planing and estimation for several initiatives
 * Led effort to improve test coverage
 * Gave lessons on beginner and intermediate functional programming
 * Organized the Developer Guild
-* Rewote big parts of a backbone application in React, improving test coverage and the UX along the way.
+* Rewrote big parts of a backbone application in React, improving test coverage and the UX along the way.
 * Designed, led, and built CMS for Tennis Channel and STIRR OTT apps.
 * Worked on Facebook Live integration
 * Led development of CMS for circa.com news app
