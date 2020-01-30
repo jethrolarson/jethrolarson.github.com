@@ -110,29 +110,24 @@ Courses taken in pursuit of BS in Applied Computer Graphics (Communication Desig
 
 # Skills/Tech
 
-## JavaScript Skills
+## Frontend Skills
 
+* JavaScript, TypeScript, CoffeeScript, Elm, ClojureScript
 * Functional Programming
-* React and friends - HTML templating is sooo 2014
+* React, Redux, etc
 * Object Oriented Programming - I can use prototypes to prototype some prototypes
-
-## CSS Skills
-
-* Stylus, SASS, Less, PostCSS, CSS modules
+* Angular, Backbone, jQuery, Ramda, Lodash, Folktale, RxJS
+* CSS modules, Emotion, typestyle, glamorous, Stylus, SASS, Less, PostCSS
 * OOCSS, SMACS, BEM, SUIT
-* Bootstrap and other CSS frameworks I don't want to not to remember
+* Bootstrap and other CSS frameworks
 * I've written CSS frameworks from scratch for several companies, including Amazon
-* Mobile, desktop, and web views
 
 ## Some more keywords you may be looking for
 
 * Software Architecture
-* TypeScript
-* CoffeeScript, Elm
 * SEO
 * Screen readers and mobile and desktop.
 * Canvas, SVG
-* React.js, Angular, Backbone, jQuery, Ramda, Lodash, Folktale, RxJS
 * Git, SVN
 * Node JS
 * Jest, QUnit, Tape, Mocha, Chai, Karma, Phantom
