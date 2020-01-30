@@ -12,7 +12,7 @@ Client-side
 ---
 
 * Functional TypeScript
-* CSS3
+* CSS3+
 * HTML5
 * Mobile First
 * React, new-hotness.js
@@ -43,7 +43,6 @@ Server-side
             <li>Fear</li>
             <li><a href="http://darkpatterns.org">Dark Patterns</a></li>
             <li>Wizards</li>
-            <li>Political Drama</li>
         </ul>
     </div>
 </div>
