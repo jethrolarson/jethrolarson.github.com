@@ -146,6 +146,7 @@ Courses taken in pursuit of BS in Applied Computer Graphics (Communication Desig
 * Handlebars, Jade, ASP, Dust
 * ESNext, ES6, ES2015, etc
 * Agile, Kanban, Scrum, Cowboy, Ship It
+* Python
 
 ## Design Skills
 
@@ -155,7 +156,7 @@ Courses taken in pursuit of BS in Applied Computer Graphics (Communication Desig
 
 ## Interested in
 
-* Elm
+* LLMs, stable diffusion, generative ai, semantic search, ML
 * Haskell
 * Purescript
-* Clojure
+* Rust
