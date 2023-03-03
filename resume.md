@@ -20,7 +20,19 @@ If you need someone with web development expertise that can wear a bunch of hats
 
 # Experience
 
-## Sinclair Digital (2016 - Current)
+## Tableau / Salesforce (2020-Current)
+Title: Lead Member of Technical Staff
+
+* Acted as development lead on exchange.tableau.com
+* Led projects doing hybrid app development on the tableau desktop application
+* Worked on angular to react migration for public.tableau.com
+* Led and developed the team's agile processes taking us from shipping our software a couple times a month to multiple times a day
+* Prototyped and led effort to convert our web app to be server-side rendered leading to dramatic improvements in traffic and google search ranking
+* Built out CI/CD pipelines, integrated and configured code quality and testing tools
+* Built a number of metrics dashboards monitoring team, process, and product health
+* Gave a number of brownbags and evanglized agile methodologies to other teams at salesforce
+
+## Sinclair Digital (2016 - 2020)
 Titles: Software Development Manager, Senior Software Engineer, Lead UX Developer,  Senior UX Developer
 
 * Managed small and large teams (4-12 people)
