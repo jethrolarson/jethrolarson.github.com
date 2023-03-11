@@ -14,9 +14,9 @@ Lynnwood, WA
 
 ----
 
-I've been developing web software since 1999. In that time I've used several languages, dozens of libraries and a bunch of different frameworks. I've written JavaScript and TypeScript libraries for my teams and open source, written CSS and widget frameworks viewed by tens of millions of users around the world. I've given talks in front of thousands of developers. I've evangelized user experience, tutored, and mentored others. I've run large and small projects. I've been a JavaScript Developer, CSS expert, App Developer, E-ink Developer, Backend Developer, UI Designer, UX Designer, Scrummaster, Project Lead, Team Lead, Product Owner, Project Manager, and Development Manager. 
+I've been developing web software since 1999. In that time I've used many languages, dozens of libraries and more frameworks than I can remember. I've written JavaScript and TypeScript libraries for my teams and open source, written CSS and widget frameworks viewed by tens of millions of users around the world. I've given talks in front of thousands of developers. I've evangelized user experience, tutored, and mentored others. I've run large and small projects. I've been a JavaScript Developer, CSS expert, App Developer, E-ink Developer, Backend Developer, SRE, UI Designer, UX Designer, Scrummaster, Project Lead, Team Lead, Product Owner, Project Manager, and Development Manager.
 
-If you need someone with web development expertise that can wear a bunch of hats and help a team deliver cool shit, I'm a good pick.
+If you need someone with web development expertise that can wear a bunch of hats and lead teams in delivering great software quickly, I'm a good pick.
 
 # Experience
 
