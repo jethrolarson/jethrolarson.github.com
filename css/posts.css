@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    gap: 1.5rem;
+    align-items: baseline;
+    border-bottom: 4px solid var(--bc);
+}
+
+.header em{
+    color: var(--fc-deem);
+}
+.logo {
+    font-size: var(--fs-xl);
+    
+}
+.logo a{border: none}
+.logo a:hover{
+    border: unset
+}
+
+.Page{
+    width: auto;
+    max-width: 800px;
+    margin: 2rem auto 4rem;
+    padding: 0 1.5rem;
+}
+.image-width-full {
+    width: 100%;
+}
+
+.next-link{
+    font-size: var(--fs-l);
+}
+.deem {
+    color: var(--fc-deem);
+}

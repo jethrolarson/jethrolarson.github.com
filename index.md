@@ -15,15 +15,14 @@ Client-side
 * CSS3+
 * HTML5
 * Mobile First
-* React, new-hotness.js
+* React, Svelte, Whatever is cool
 
 Server-side
 ---
 
-* Node.js
+* NodeJs, Next.js
 * Python
-* Perl
-* etc
+* Other stuff I did since 2006
 
 ---
 
@@ -41,6 +40,7 @@ Server-side
         <h2>Turn Offs</h2>
         <ul>
             <li>Fear</li>
+            <li>Lies</li>
             <li><a href="http://darkpatterns.org">Dark Patterns</a></li>
             <li>Wizards</li>
         </ul>

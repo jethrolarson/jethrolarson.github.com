@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>{{ page.title | default: site.title }}</title>
+    {% include seo.html %} <link rel="stylesheet" href="{{ "/css/normalize.css"
+    | relative_url }}"> <link rel="stylesheet" href="{{ "/css/default.css" |
+    relative_url }}"> <link rel="stylesheet" href="{{ "/css/posts.css" |
+    relative_url }}">
+  </head>
+  <body>
+    <div class="Page">
+      {% include header.html %}
+      <main>
+        <article>
+          <h1>{{page.title}}</h1>
+          <p class="post-meta">
+            <time datetime="{{ page.date | date_to_xmlschema }}"
+              >{{ page.date | date: "%B %d, %Y" }}</time
+            >
+          </p>
+
+          <div class="post-content">{{ content }}</div>
+
+          <nav class="post-navigation">
+            {% if page.previous %}
+            <a href="{{ page.previous.url }}"
+              >← Previous: {{ page.previous.title }}</a
+            >
+            {% endif %} {% if page.next %}
+            <a href="{{ page.next.url }}">Next: {{ page.next.title }} →</a>
+            {% endif %}
+          </nav>
+        </article>
+      </main>
+
+      <footer>{% include footer.html %}</footer>
+    </div>
+  </body>
+</html>

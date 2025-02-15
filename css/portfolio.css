@@ -7,36 +7,39 @@ list-style:none }
 
 /* Layout */
 .Page{
-    width: 690px;
+    width: 1200px;
     margin: 0 auto;
     text-align:left;}
 .Header{
-    position:relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
     padding: 18px 0 0;}
 
 .Logo{
     padding: 0 0 2px;
     line-height: 1;
-    display: inline;}
-    .Logo a{color:#000;}
+    display: inline;
+margin: 0}
+    .Logo a{color:#fff;}
 
 .MainNav{
     display: inline-block;
     margin-left: 20px;}
     .MainNav a{
         padding: 1px 20px;
-        border: #fff solid 2px;
+        border: transparent solid 2px;
         text-align: center;
         text-decoration: none;
         font-size: 1.125em;
         font-family: Georgia;
-        color: #666;}
+        color: #ccc;}
     .MainNav a:hover{
-        border-bottom-color:#000;
-        color:#000 ;}
+        border-bottom-color:#fff;
+        color:#fff ;}
     .MainNav-item--index a{
-        color: #000;
-        border-bottom-color:#000;}
+        color: #fff;
+        border-bottom-color:#fff;}
     .MainNav-item--github img {padding-bottom: 2px;}
     .MainNav-item img{ vertical-align: bottom; }
 
@@ -44,13 +47,13 @@ list-style:none }
     margin: 0;
     font-style: italic;
     font-size: 1.125em;
-    color: #888;
+    color: #aaa;
 }
 
 
 .Content{
   margin:0 0 1.5em; padding: 1px 0;
-  border-top: 3px solid #000;}
+  border-top: 3px solid #fff;}
 
 .Portrait{
     float:right;

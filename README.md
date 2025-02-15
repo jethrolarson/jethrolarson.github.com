@@ -1,3 +1,8 @@
+---
+title: Personal Goals - Jethro Larson
+layout: simple
+---
+
 Personal Goals
 ------------
 

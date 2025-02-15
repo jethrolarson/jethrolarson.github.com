@@ -9,3 +9,4 @@ maruku:
   use_divs:   false
   png_dir:    images/latex
   png_url:    /images/latex
+url: "https://jethrolarson.github.com/posts" 
