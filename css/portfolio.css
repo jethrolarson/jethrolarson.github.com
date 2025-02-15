@@ -65,6 +65,10 @@ margin: 0}
     display: flex;
 }
 
+hr{
+    clear: both;
+}
+
 /* Size classes, guess I only need one right now */
 .u-size-half {
     width: 50%;
