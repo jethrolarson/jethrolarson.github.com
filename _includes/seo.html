@@ -1,14 +1,26 @@
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="{{ page.title | default: site.title }}">
-<meta property="og:description" content="{{ page.description | default: site.description }}">
-<meta property="og:image" content="{{ page.image | default: site.image | absolute_url }}">
-<meta property="og:url" content="{{ page.url | absolute_url }}">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ page.title | default: site.title }}" />
+<meta
+  property="og:description"
+  content="{{ page.description | default: site.description }}"
+/>
+<meta
+  property="og:image"
+  content="{{ page.image | default: site image | absolute_url }}"
+/>
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="{{ site.title }}" />
 
 <!-- Twitter Card Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ page.title | default: site.title }}">
-<meta name="twitter:description" content="{{ page.description | default: site.description }}">
-<meta name="twitter:image" content="{{ page.image | default: site.image | absolute_url }}">
-<meta name="twitter:site" content="@jethrolarson>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ page.title | default: site.title }}" />
+<meta
+  name="twitter:description"
+  content="{{ page.description | default: site.description }}"
+/>
+<meta
+  name="twitter:image"
+  content="{{ page.image | default: site.image | absolute_url }}"
+/>
+<meta name="twitter:site" content="@jethrolarson" />
