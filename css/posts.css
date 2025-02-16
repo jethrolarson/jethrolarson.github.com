@@ -33,3 +33,13 @@
 .deem {
     color: var(--fc-deem);
 }
+
+.post-title {
+    margin: 2rem 0 0;
+}
+
+.post-meta {
+    color: var(--fc-deem);
+    margin-top: 0.25rem;
+    font-size: var(--fs-s);
+}

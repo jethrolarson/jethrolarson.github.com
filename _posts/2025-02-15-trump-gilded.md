@@ -4,6 +4,7 @@ layout: post
 description: "Trump Wants to Take America Back to the 1890s but do you know anything about The Gilded Age he yearns for?"
 image: "/images/gilded-trump.jpg"
 snark: "deceptive narratives don't care about feelings"
+tags: [politics]
 ---
 
 <img src="/images/gilded-trump.jpg" alt="Return to The Gilded Age? Really?" class="image-width-full" />

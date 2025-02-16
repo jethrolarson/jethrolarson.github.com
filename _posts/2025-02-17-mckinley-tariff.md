@@ -3,6 +3,7 @@ title: Trump’s McKinley Fantasy
 layout: post
 description: "What did McKinley's tariffs actually do?"
 image: "/images/mckinley.jpg"
+tags: [politics]
 ---
 
 <img src="/images/mckinley.jpg" alt="What did McKinley's tariffs actually do?" class="image-width-full" />
