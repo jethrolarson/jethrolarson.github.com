@@ -8,7 +8,7 @@ tags: [politics]
 
 <img src="/images/mckinley.jpg" alt="What did McKinley's tariffs actually do?" class="image-width-full" />
 
-In my last post, I talked about [why the 1890s weren’t the golden age]({% post_url 2025-02-17-trump-gilded %}) Trump imagines. Now let’s talk about McKinley himself—specifically his obsession with tariffs and how it backfired on America and the world.
+In my last post, I talked about [why the 1890s weren’t the golden age]({% post_url 2025-02-15-trump-gilded %}) Trump imagines. Now let’s talk about McKinley himself—specifically his obsession with tariffs and how it backfired on America and the world.
 
 At a recent event, Trump said:
 > "our country in the 1890s was probably ... the wealthiest it ever was, because it was a system of tariffs and we had a president, you know, McKinley, right? [...] he was really a very good businessman. ... We were a very wealthy country."
