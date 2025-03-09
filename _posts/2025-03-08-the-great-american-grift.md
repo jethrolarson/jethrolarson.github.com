@@ -2,11 +2,13 @@
 title: The Great American Grift
 layout: post
 description: "The top players of America aren’t creating wealth—they're extracting it, siphoning value from workers, consumers, and entire nations. It's time to wake the fuck up."
-image: "/images/tbd"
+image: "https://jethrolarson.github.io/images/wait_its_all_extraction.jpg"
 tags: [politics]
 ---
 
-## Strip-mining Americans for Fun and Profit
+# Strip-mining Americans for Fun and Profit
+
+<img src="/images/wait_its_all_extraction.jpg" alt="Wait, it's all extraction? Always has been" class="image-width-full" />
 
 Our entire lives we’ve been told that America is the land of opportunity, where hard work leads to success and where economic growth benefits everyone. Democrats and Republicans measure their success by the stock market and GDP. Economists claim that 2024 was the best year ever. But as we look around, something doesn’t add up. Wages stagnante. Healthcare costs leave everyone in debt, if they can get it. Rent and groceries drain bank accounts despite working respectable, necessary jobs. Are they lying? Where's the beef?
 
@@ -22,7 +24,7 @@ This isn’t about big government vs. small government or left vs. right. It’s
 
 <img src="/images/Monopoly_1935_Tokens.webp" alt="Photo of Monopoly player tokens including the top hat" class="image-width-full" />
 
-## America's Original Sin
+# America's Original Sin
 
 The grift didn’t start with Fannie Mae and the housing bubble, it didn’t start with the industrialists carving up railroads and oil fields, and it didn’t start with Jim Crow robbing Black Americans of generational wealth. No, the great American grift is older than America itself.
 
@@ -114,7 +116,7 @@ They exploited Puerto Rico because they knew the locals couldn’t mobilize and 
 
 <img src="/images/quietly_do_whatever_we_want.jpg" alt="Elon Musks son says in an interview '...we quietly do whatever we want'" class="image-width-full" />
 
-## This doesn't have to be the worst timeline
+# This doesn't have to be the worst timeline
 
 When the Civil War ended and the slaves were "freed," we patted ourselves on the back and let the devils steal nearly every freedom granted back.
 
