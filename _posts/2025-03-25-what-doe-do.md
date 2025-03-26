@@ -78,3 +78,8 @@ Destroying the Department of Education doesn’t just hurt “the bureaucracy.�
 You don’t have to love bureaucracy. You don’t have to agree with everything the Department of Education has done. But dismantling it isn’t about empowering parents or fixing schools—it’s about defunding protections, shifting public money into private hands, and ending federal accountability.
 
 Rather than burning it down maybe we should consider how to improve how it serves America's students.
+
+## References
+* Executive Order: [Improving Education Outcomes by Empowering Parents, States, and Communities](https://www.whitehouse.gov/presidential-actions/2025/03/improving-education-outcomes-by-empowering-parents-states-and-communities/)
+* nytimes: [Teachers Unions Sue Trump Administration Over Push to Shut Education Dept](https://www.nytimes.com/2025/03/24/us/trump-education-department-lawsuit.html)
+* abcnews: [School choice programs divide Republicans as Trump moves to eliminate Department of Education](https://abcnews.go.com/US/school-choice-programs-divide-republicans-trump-moves-eliminate/story?id=120024121)
