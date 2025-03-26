@@ -8,13 +8,13 @@ tags: [politics]
 
 ## What’s really at stake as we dismantle the DOE
 
-In March 2025, President Trump signed an executive order directing Education Secretary Linda McMahon to begin the process of [dismantling the U.S. Department of Education](https://www.whitehouse.gov/presidential-actions/2025/03/improving-education-outcomes-by-empowering-parents-states-and-communities/). The order aims to close the department "to the maximum extent appropriate and permitted by law" and transfer many of its functions to other agencies.
+Five days ago (March 20, 2025), President Trump signed an executive order directing Education Secretary Linda McMahon to begin the process of [dismantling the U.S. Department of Education](https://www.whitehouse.gov/presidential-actions/2025/03/improving-education-outcomes-by-empowering-parents-states-and-communities/). The order aims to close the department "to the maximum extent appropriate and permitted by law" and transfer many of its functions to other agencies.
 
 This includes moving the $1.6 trillion federal student loan portfolio to the Small Business Administration, and shifting special education and school nutrition programs to the Department of Health and Human Services. The order also prioritizes routing federal education dollars to private institutions through school choice programs, and explicitly seeks to defund initiatives that promote diversity, equity, and inclusion.
 
-While Congress must approve any formal elimination of the department, the administration has already laid off nearly half its staff. Major lawsuits are now underway, with teachers' unions and civil rights organizations accusing the administration of overstepping its authority. Even some Republican lawmakers—particularly those from rural districts—have raised concerns about the fallout for public schools.
+While Congress must approve any formal elimination of the department, the administration has already laid off nearly half its staff. Major lawsuits are already underway, with teachers' unions and civil rights organizations accusing the administration of overstepping its authority. Even some Republicans—particularly those from rural districts—have raised concerns about the fallout for public schools.
 
-Given this moment, it’s worth taking a sober look at what the Department of Education actually does, and what might be lost if its dismantling continues unchecked.
+Given this moment, it’s worth taking looking at what the Department of Education actually does, and what might be lost if the destruction continues unabated.
 
 <img src="/images/doe_do.png" alt="Meme: What the fuck does the DOE even do?" class="image-width-full" />
 
@@ -26,32 +26,35 @@ Here’s what it actually does:
 
 ### 1. Distributes Federal Education Funding
 
-The department manages and allocates billions in federal funding, ensuring resources reach the students and schools who need them most:
+The Department of Education allocates billions in federal funds each year, directing resources where they're most needed:
 
-- **Title I** funding for low-income K–12 schools.
-- **IDEA** grants for special education.
-- **Pell Grants** for low-income college students.
-- Federal **student loan** infrastructure, including FAFSA.
+- **Title I** grants help low-income K–12 schools close opportunity gaps.
+- **IDEA** funds support students with disabilities and the services they require.
+- **Pell Grants** provide need-based aid for low-income college students.
+- Federal **student loan programs**—including FAFSA.
 
 ### 2. Enforces Civil Rights Protections
+The DOE investigates violations of federal civil rights law in education—and acts on them.
 
-Through the Office for Civil Rights, the department ensures that schools and universities follow federal laws prohibiting discrimination based on race, gender, disability, and other protected categories.
+In 2024, the DOE concluded that the [Philadelphia School District failed to protect Jewish students from antisemitic harassment](https://apnews.com/article/philadelphia-school-district-antisemitism-complaint-5d7833d4630d7883e3bc3991f30bae2f)—even after repeated warnings. Students had reported Nazi salutes, swastikas, slurs, and threats, while district leaders failed to take meaningful action. Federal investigators also found evidence of retaliation against parents who complained.
+
+The district entered a resolution agreement requiring staff training, student programming, anti-harassment policies, and improved complaint tracking—aimed at making schools safer and more accountable.
 
 ### 3. Collects and Publishes National Education Data
 
-The department runs the National Center for Education Statistics (NCES), which gathers data on everything from graduation rates to achievement gaps. This data informs policy, supports research, and keeps the public informed.
+The department runs the [National Center for Education Statistics](https://nces.ed.gov/) (NCES), which gathers data on everything from graduation rates to achievement gaps. This data informs policy, supports research, and keeps the public informed.
 
 ### 4. Provides Oversight and Guidance
 
-While it can’t dictate local decisions, the department helps schools interpret and implement federal laws like Title IX. It issues guidelines on everything from accessibility to safe learning environments.
+While it can’t dictate local decisions, the department helps schools interpret and implement federal laws like [Title IX](https://www.justice.gov/crt/title-ix). It issues guidelines on everything from accessibility to safe learning environments.
 
 ### 5. Responds to Crises and Emergencies
-
-During natural disasters or national crises (like COVID-19), the department channels emergency funds, supports displaced students, and helps school systems recover.
+Whether it’s a pandemic, a wildfire, or a hurricane, the Department steps in to support affected school systems. During the [COVID-19 response](https://www.ed.gov/teaching-and-administration/safe-learning-environments/covid-19), for example, it oversaw emergency relief funding, helped transition schools to remote learning, and worked to keep vulnerable students from falling through the cracks.
 
 ### 6. Holds Colleges Accountable
+The department enforces accreditation standards and consumer protections in higher education—especially to prevent abuse by for-profit institutions.
 
-It oversees accreditation standards and student protections in higher ed—especially when it comes to for-profit institutions that have historically taken advantage of vulnerable students.
+During the [Corinthian Colleges Scandal](https://www.ppsl.org/news/news/press-releases/former-corinthian-students-claim-victory-at-the-department-of-educations-debt-cancellation-announcement-press-release), the college lured in students with false job placement stats, loaded them with debt, and delivered worthless degrees. The DOE fined the college and ultimately canceled nearly $6 billion in loans for [more than 560,000 students that were defrauded](https://en.wikipedia.org/wiki/Corinthian_Colleges#Federal_investigation_in_the_United_States).
 
 ## What Happens If It Disappears?
 
