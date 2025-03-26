@@ -1,8 +1,8 @@
 ---
 title: What Would Happen If We Abolished the U.S. Department of Education?
 layout: post
-description: "The top players of America aren’t creating wealth—they're extracting it, siphoning value from workers, consumers, and entire nations. It's time to wake the fuck up."
-image: "https://jethrolarson.github.io/images/wait_its_all_extraction.jpg"
+description: "As Trump guts the U.S. Department of Education, do we know what we're losing?"
+image: "https://jethrolarson.github.io/images/doe_do.png"
 tags: [politics]
 ---
 
