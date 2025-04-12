@@ -26,7 +26,10 @@
 .image-width-full {
     width: 100%;
 }
-
+.image-centered {
+    display: block;
+    margin: 1rem auto;
+}
 .next-link{
     font-size: var(--fs-l);
 }

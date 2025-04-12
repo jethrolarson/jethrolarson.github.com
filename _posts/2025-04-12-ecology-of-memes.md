@@ -12,7 +12,7 @@ tags: [philosophy, politics]
 
 The common understanding of the word "meme" is that it's an image macro, you modify a picture known to represent a feeling or situation you identify with and apply your current situation to that with some spicy text. If you make the text spicy enough it gets likes and reposts and you feel good about your contribution to the world. Especially if the post goes viral and millions of people see it. This is a mostly valid but narrow usage of the original idea of "meme" that Richard Dawkins coined in his 1979 book _The Selfish Gene_. Dawkins was using a biological metaphor for the spread of ideas and posited the atomic unit of "meme" as the analog to "gene" from genetics. That through natural selection genes would be selected for based on their evolutionary fitness. It's amusingly appropriate that this idea of what "meme" means has mutated and drifted in the 46 years since.
 
-<img src="https://jethrolarson.github.io/images/meme_meme.jpg" alt="Awkward penguin meme — Wrote book on how cooperation may have evolved | Created name for funny cat pictures" class="image-width-full" />
+<img src="https://jethrolarson.github.io/images/meme_meme.jpg" alt="Awkward penguin meme — Wrote book on how cooperation may have evolved | Created name for funny cat pictures" class="image-centered" />
 
 Changes in the world in the last decade--particularly around propaganda, disinformation, rhetoric, and social media--has got me thinking hard about what makes ideas spread and the environment in which they do. I got to watch as the word "woke" went through changes in the last 20 years and the history of the word is interesting.
 
