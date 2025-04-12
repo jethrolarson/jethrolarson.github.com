@@ -2,19 +2,21 @@
 title: "Noosphere: The Ecology of Memes"
 layout: post
 description: "An ecological look at how ideas survive"
-image: https://jethrolarson.github.io/images/coral_reef.avif""
+image: "https://jethrolarson.github.io/images/coral_reef.avif"
 tags: [philosophy, politics]
 ---
+
+<img src="https://jethrolarson.github.io/images/coral_reef.avif" alt="Coral reef with lionfish — a metaphor for memetic invasion" class="image-width-full" />
 
 ## Are memes alive?
 
 The common understanding of the word "meme" is that it's an image macro, you modify a picture known to represent a feeling or situation you identify with and apply your current situation to that with some spicy text. If you make the text spicy enough it gets likes and reposts and you feel good about your contribution to the world. Especially if the post goes viral and millions of people see it. This is a mostly valid but narrow usage of the original idea of "meme" that Richard Dawkins coined in his 1979 book _The Selfish Gene_. Dawkins was using a biological metaphor for the spread of ideas and posited the atomic unit of "meme" as the analog to "gene" from genetics. That through natural selection genes would be selected for based on their evolutionary fitness. It's amusingly appropriate that this idea of what "meme" means has mutated and drifted in the 46 years since.
 
-Changes in the world in the last decade particularly around propaganda, disinformation, rhetoric, and social media has got me thinking hard about what makes ideas spread and the environment in which they do. I got to watch as the word "woke" wen't through changes in the last 20 years and the history of the word is interesting.
+Changes in the world in the last decade--particularly around propaganda, disinformation, rhetoric, and social media--has got me thinking hard about what makes ideas spread and the environment in which they do. I got to watch as the word "woke" went through changes in the last 20 years and the history of the word is interesting.
 
 - _1940s_: “Woke” originates in African American vernacular to mean awake to racial injustice. Lead Belly uses “stay woke” in reference to the Scottsboro Boys.
 
-- _1971_: In the play Garvey Lives!, a character says\*: “And now that Mr. Garvey done woke me up, I’m gon’ stay woke. And I’m gon’ help him wake up other black folk.” Reinforces its usage in the context of political and racial consciousness.
+- _1971_: In the play Garvey Lives!, a character says: “And now that Mr. Garvey done woke me up, I’m gon’ stay woke. And I’m gon’ help him wake up other black folk.” Reinforces its usage in the context of political and racial consciousness.
 
 - _2008_: Erykah Badu popularizes the phrase in her song Master Teacher--“I stay woke.” At this point, the meme is alive but contained within Black cultural spaces.
 
@@ -26,7 +28,7 @@ Changes in the world in the last decade particularly around propaganda, disinfor
 
 - _Now_: The derogatory usage of “Woke” has almost completely subsumed the original meaning and many proponents of its original meaning have abandoned it.
 
-You can see that the words usage meaning and spread have changed over time. There an incubation period, a viral spread, mutation, and a sort of death. Dawkins was on to something seeing culture as having biological properties. This got me thinking, is there a biosphere of culture? An ecology of mind?
+You can see that the word's usage, meaning, and spread have changed over time. There an incubation period, a viral spread, mutation, and a sort of death. Dawkins was on to something, seeing culture as having biological properties. This got me thinking, is there a biosphere of culture? An ecology of mind?
 
 ## The Noosphere
 
@@ -40,9 +42,9 @@ Let's take a moment to state the definition of meme I'm proposing here:
 
 That is dense and abstract so let's unpack that a little. You probably have an understanding of what data is. Some record or fact stored in the world in a way that a human can extract meaning and understanding from it. A fact isn't "alive", it doesn't change--though what we believe about facts may change. That interaction when data turns into understanding is important, that's what animates knowledge into something in motion, something being thought about, something given importance and meaning.
 
-You read these dead words on this page and they're coming alive in your brain (I hope), and if you spread them to others they animate further (I also hope). As ideas animate into the web of human minds they move about and mutate as each person brings their past experiences, understanding, literacy, and synthesis to the table. With enough movement ideas can develop there own kind of identity. This sounds animistic but you yourself are a colony of unthinking cells that in aggregate _do_ think. That's what happened with "Woke" above. That's not to say that the "Woke mind virus" is an animal in concrete terms but it is a kind of cognitive colonial lifeform in abstract. A coral reef or jellyfish is made out of countless independent organisms with no centralized mind but it still lives and can act as such. And like a coral reef, "woke" is as much an organism as it is a place where other organisms live. Some paraisitic, some symbiotic, and some just adjacent. Conservative memes moved in and killed the coral and now live in the dead husks of the original meaning but that happens in real reefs too.
+You read these dead words on this page and they're coming alive in your brain (I hope), and if you spread them to others they animate further (I also hope). As ideas animate into the web of human minds they move about and mutate as each person brings their past experiences, understanding, literacy, and synthesis to the table. With enough movement ideas can develop there own kind of identity. This sounds animistic but you yourself are a colony of unthinking cells that in aggregate _do_ think. That's what happened with "Woke" above. That's not to say that the "Woke mind virus" is an animal in concrete terms, but it is a kind of cognitive colonial lifeform in abstract. A coral reef or jellyfish is made out of countless independent organisms with no centralized mind but it still lives and can act as such. And like a coral reef, "woke" is as much an organism as it is a place where other organisms live. Some parasitic, some symbiotic, and some just adjacent. Conservative memes moved in and killed the coral and now live in the dead husks of the original meaning but that happens in real reefs too.
 
-The metaphor isn't perfect but I think it's fertile ground for exploring how knowledge and culture change, grow, and atrophy. We've established that data isn't an memetic organism as it's inanimate but data is a sort of food that memes live on (true or not). The noosphere can be healthy in areas and struggling in others as data loss, human death, and parasitic memes destroy meaning.
+The metaphor isn't perfect but I think it's fertile ground for exploring how knowledge and culture change, grow, and atrophy. We've established that data isn't a memetic organism--it's inanimate--but data is a sort of food that memes live on (true or not). The noosphere can be healthy in areas and struggling in others as data loss, human death, and parasitic memes destroy meaning.
 
 That opens the door to all sorts of nuance:
 
