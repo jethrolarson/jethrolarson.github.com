@@ -34,6 +34,8 @@ You can see that the word's usage, meaning, and spread have changed over time. T
 
 ## The Noosphere
 
+<img src="https://jethrolarson.github.io/images/memeception.jpg" alt="galaxy brain meme showing evolution from 'memes are funny lol' to the below maddness" class="image-centered" />
+
 Noosphere might sound a sci-fi concoction , but it has been around for over a century. It was coined in the 1920s by French philosopher Édouard Le Roy and developed further by Jesuit priest and paleontologist Pierre Teilhard de Chardin. They expanded upon the concepts of geosphere and biosphere with a third layer: the Noosphere, from the Greek _nous_, meaning mind. It was meant to describe the sphere of human thought, a collective realm of consciousness and knowledge that emerged as a new evolutionary layer once life began to think about itself.
 
 For them, the Noosphere wasn’t just a metaphor--it was a literal stage in the Earth’s development, driven by the growth of communication, science, philosophy, and culture. Over time, the term has taken on more metaphysical as well as metaphorical meanings, especially in digital contexts. Today, I’m using it in a specific way: not as a mystical hive-mind or spiritual field, but as the ecological space in which ideas live, mutate, and die. It is the cognitive habitat of cultural evolution. Just as the biosphere sustains biological organisms, the Noosphere is the environment in which ideas live.
