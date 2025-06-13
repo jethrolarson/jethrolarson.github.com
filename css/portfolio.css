@@ -1,75 +1,96 @@
-nav ul{margin: 0;}
-nav li{
-display: inline-block;
-margin: 0; padding: 0;
-list-style:none }
-    nav li a{display:block;}
-
-/* Layout */
-.Page{
-    width: 1200px;
-    margin: 0 auto;
-    text-align:left;}
-.Header{
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    padding: 18px 0 0;}
-
-.Logo{
-    padding: 0 0 2px;
-    line-height: 1;
-    display: inline;
-margin: 0}
-    .Logo a{color:#fff;}
-
-.MainNav{
-    display: inline-block;
-    margin-left: 20px;}
-    .MainNav a{
-        padding: 1px 20px;
-        border: transparent solid 2px;
-        text-align: center;
-        text-decoration: none;
-        font-size: 1.125em;
-        font-family: Georgia;
-        color: #ccc;}
-    .MainNav a:hover{
-        border-bottom-color:#fff;
-        color:#fff ;}
-    .MainNav-item--index a{
-        color: #fff;
-        border-bottom-color:#fff;}
-    .MainNav-item--github img {padding-bottom: 2px;}
-    .MainNav-item img{ vertical-align: bottom; }
-
-.SubHeading{
-    margin: 0;
-    font-style: italic;
-    font-size: 1.125em;
-    color: #aaa;
+nav ul {
+  margin: 0;
+}
+nav li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li a {
+  display: block;
 }
 
+/* Layout */
+.Page {
+  width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 18px 0 0;
+}
 
-.Content{
-  margin:0 0 1.5em; padding: 1px 0;
-  border-top: 3px solid #fff;}
+.Logo {
+  padding: 0 0 2px;
+  line-height: 1;
+  display: inline;
+  margin: 0;
+}
+.Logo a {
+  color: #fff;
+}
 
-.Portrait{
-    float:right;
-    margin: 0 0 12px 12px;
-    width: 425px;}
+.MainNav {
+  display: inline-block;
+  margin-left: 20px;
+}
+.MainNav a {
+  padding: 1px 20px;
+  border: transparent solid 2px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.125em;
+  color: #ccc;
+}
+.MainNav a:hover {
+  border-bottom-color: #fff;
+  color: #fff;
+}
+.MainNav-item--index a {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+.MainNav-item--github img {
+  padding-bottom: 2px;
+}
+.MainNav-item img {
+  vertical-align: bottom;
+}
+
+.SubHeading {
+  margin: 0;
+  font-style: italic;
+  font-size: 1.125em;
+  color: #aaa;
+}
+
+.Content {
+  margin: 0 0 1.5em;
+  padding: 1px 0;
+  border-top: 3px solid #fff;
+}
+
+.Portrait {
+  float: right;
+  margin: 0 0 12px 12px;
+  width: 425px;
+  filter: saturate(0) opacity(0.7);
+}
 
 /* modern grid system lol */
 .grid {
-    display: flex;
+  display: flex;
 }
 
-hr{
-    clear: both;
+hr {
+  clear: both;
 }
 
 /* Size classes, guess I only need one right now */
 .u-size-half {
-    width: 50%;
+  width: 50%;
 }

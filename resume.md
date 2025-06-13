@@ -6,7 +6,6 @@ layout: simple
 Jethro Larson
 ----
 Lynnwood, WA  
-530-781-3536  
 <jethrolarson@gmail.com>  
 <http://jethrolarson.com>
 [LinkedIn](http://www.linkedin.com/in/jethrolarson)  

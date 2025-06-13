@@ -1,60 +1,95 @@
-:root{
+:root {
   --fs-xxl: 3.1rem;
   --fs-xl: 1.5rem;
   --fs-l: 1.125rem;
   --fs-m: 1rem;
   --fs-s: 0.8rem;
   --fc-deem: #bfa9c1;
-  --bc:#4e4056;
+  --bc: #92539c;
+}
+html {
+  background: rgb(79 46 136) linear-gradient(0deg, rgb(5 5 34) 0%, rgb(79 46 136) 86%);
+  background-attachment: fixed;
+  height: 100%;
 }
 body {
   text-align: center;
-  margin: 0; padding: 0;
-  background: #34273b;
-  font: 16px/1.3 Verdana, Helvetica, sans-serif;
-  color: #ddd;}
-h1,h2,h3,h4 {
+  margin: 0;
+  padding: 0;
+  font: 16px/1.7 "Junge", Georgia, serif;
+  color: #ddd;
+}
+h1,
+h2,
+h3,
+h4 {
   font-weight: normal;
-  font-family: Georgia, "Times New Roman", serif;
-  color:#fff;}
-h1{font-size: var(--fs-xl);}
-h2{font-size: var(--fs-l)}
-h3{font-size: var(--fs-m)}
+  font-family: inherit;
+  color: #fff;
+}
+h1 {
+  font-size: var(--fs-xl);
+}
+h2 {
+  font-size: var(--fs-l);
+}
+h3 {
+  font-size: var(--fs-m);
+}
 
-h2,h3,h4{margin: .5em 0 0;}
+h2,
+h3,
+h4 {
+  margin: 0.5em 0 0;
+}
 
-ul{
-    margin: 0 0 1em;
-    padding: 0;}
-    ul li{
-        margin: 0;
-        list-style-type:square;
-        margin-left: 18px;
-        padding-left: 2px;}
+ul {
+  margin: 0 0 1em;
+  padding: 0;
+}
+ul li {
+  margin: 0;
+  list-style-type: square;
+  margin-left: 18px;
+  padding-left: 2px;
+}
 
 li,
-p{line-height: 1.5;}
-
-a{
-    text-decoration: none;
-    border-bottom: 1px solid #fff;
+p {
+  line-height: inherit;
 }
-a:link{color: #fff;}
-a:visited{border-bottom-style:dashed;color: #fff;}
-a:hover{color: #aaa}
-a img{border: 0}
+
+a {
+  text-decoration: none;
+  border-bottom: 1.5px dashed var(--bc);
+}
+a:link {
+  color: #f383ff;
+}
+a:visited {
+  border-bottom-style: dotted;
+  color: #d368df;
+}
+a:hover {
+  color: #f8b7ff;
+  border-bottom-style: solid;
+}
+a img {
+  border: 0;
+}
 
 hr {
-    border: solid #ddd;
-    border-width: 0 0 2px;
+  border: solid #ddd;
+  border-width: 0 0 2px;
 }
 
-.Page{
-    width: 690px;
-    margin: 0 auto;
-    text-align:left;}
+.Page {
+  width: 690px;
+  margin: 0 auto;
+  text-align: left;
+}
 
-blockquote{
+blockquote {
   padding-left: 1rem;
   margin: 1rem 0;
   border-left: 4px solid var(--bc);

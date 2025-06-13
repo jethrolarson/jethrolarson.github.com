@@ -1,4 +1,6 @@
 destination: ./_site
+title: "Abundant Thoughts"
+description: "--of someone stuck in Dunning-Kruger/imposter syndrome oscillations"
 auto:        true
 port: 4000
 highlighter: rouge

@@ -6,7 +6,7 @@ layout: full
 description: The out of date personal portfolio of Jethro Larson
 ---
 
-<img class="Portrait" src="/images/Halloween2018.png" alt="Spoopy!"/>
+<img class="Portrait" src="/images/halloween2018_posterized.jpg" alt="Spoopy!"/>
 
 Client-side
 ---
