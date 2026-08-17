@@ -13,7 +13,7 @@ Seattle Area, WA
 
 ----
 
-I love shipping great user experiences that help users kick ass. I started as a designer but found the best way to deliver great user experiences was to build them. As a developer I shipped great experiences and helped our engineering group grow. When our manager left I took on the responsibilities of that role so the team could keep shipping. At Tableau I found a team with great culture and autonomy but processes and infra were holding us back. Seeing the challenges I sculpted our tech and processes until we could deliver change continuously to production in an environment where that was considered impossible. I never stopped coding and never stopped shipping. The through-line is I want to deliver great user experiences quickly and sustainably and I've done what is needed to enable that.
+I love shipping great user experiences that help users kick ass. I started as a designer but found the best way to deliver great user experiences was to build them. Across multiple companies I closed the gap between design and engineering with advocacy, custom design systems, and relationships. When my team lost its manager I filled in so the team could keep shipping. At Tableau the team was great but processes and infra were holding us back so I pushed kanban and continuous deployment putting us among the first teams at Tableau to achieve full-CD. I want to ship great experiences and I do what is needed to enable that.
 
 At the moment I'm thinking hard about how to leverage agent teams to deliver great experiences safely, without amassing cognitive debt nor stressing organizational bottlenecks. If you're thinking about that too, hmu, I'd love to share notes.
 
