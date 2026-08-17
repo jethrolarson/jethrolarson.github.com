@@ -7,15 +7,15 @@ Jethro Larson
 ----
 Lynnwood, WA  
 <jethrolarson@gmail.com>  
-<http://jethrolarson.com>
 [LinkedIn](http://www.linkedin.com/in/jethrolarson)  
 [Plain Text Version](http://github.com/jethrolarson/jethrolarson.github.com/raw/master/resume.md)
 
 ----
 
-I've been developing web software since 1999. In that time I've used many languages, dozens of libraries and more frameworks than I can remember. I've written JavaScript and TypeScript libraries for my teams and open source, written CSS and widget frameworks viewed by tens of millions of users around the world. I've given talks in front of thousands of developers. I've evangelized user experience, tutored, and mentored others. I've run large and small projects. I've been a JavaScript Developer, CSS expert, App Developer, E-ink Developer, Backend Developer, SRE, UI Designer, UX Designer, Scrummaster, Project Lead, Team Lead, Product Owner, Project Manager, and Development Manager.
+I love shipping great user experiences that help users kick ass. I started as a designer but found the best way to deliver great user experiences was to build it. As a developer I built great experiences but I found the best way to deliver that was to manage a team and improve processes and make product decisions. Working software makes a compelling argument so I never really stopped coding. At Tableau I went back to engineering and we delivered good experiences there but processes, operations, and tooling were preventing us from responding to change. Seeing the challenges I sculpted my team into one that could deliver change continuously to production in an environment where that was considered impossible. The through-line is I want to deliver great user experiences quickly and sustainably and I've done what is needed to enable that.
 
-If you need someone with web development expertise that can wear a bunch of hats and lead teams in delivering great software quickly, I'm a good pick.
+At the moment I'm thinking hard about how to leverage agent teams to deliver great experiences safely, without amassing cognitive debt nor stressing organizational bottlenecks. If you're thinking about that too, hmu, I'd love to share notes.
+
 
 # Experience
 
@@ -23,7 +23,7 @@ If you need someone with web development expertise that can wear a bunch of hats
 Title: Lead Member of Technical Staff  
 Current Role: Lead developer for Tableau Next Metrics
 
-* Built orchestration system for managing agentic workflows across remote workspaces automating processes that would take developers several hours into set and forget agentic workflows that can queue SDD work while AFK while still granting visibility and steerability.
+* Built orchestration system for managing agents across remote workspaces. Automated processes that would take developers > 5 hours into set and forget agentic workflows that can queue spec-driven development while AFK without sacrificing visibility and control. 
 * Shipped Tableau Next Metric Card across 6 distribution surfaces
 * Launched [Tableau Pulse](https://www.tableau.com/products/tableau-pulse)
 * Acted as development lead on [Tableau Exchange](https://exchange.tableau.com)
@@ -95,21 +95,21 @@ Titles: Web Developer, Jr. Software Engineer, Website Designer
 
 # Side Projects
 
-### [foreman-lite](jethrolarson/foreman-lite)
+### [foreman-lite](https://github.com/jethrolarson/foreman-lite)
 
-A tiny constitution for autonomous coding agents where workers act, verifiers judge, and a foreman agent governs the process without doing the work. WIP.
+Experimental framework where a "foreman" agent makes the orchestration decisions rather than than the human. Tech: herdr, Pi, opencode
 
 ### [Noolang](https://github.com/jethrolarson/noolang) (2025-Current)
 
-A functional, expression-based, LLM-friendly programming language designed for linear, declarative code with explicit effects and strong type inference. Tech: TS, MCP, LSP, Rust
+A functional, expression-based, LLM-friendly programming language designed for linear, declarative code with explicit effects and strong type inference. Tech: TS, MCP, LSP
 
 ### [fun-land](https://github.com/fun-land/fun-land/tree/main) (2021-Current)
 
-A suite of state management and web development libraries built around functional optics.
+A suite of state management and web development libraries built around functional optics. Think "what would redux be like if it allowed local reasoning with functional optics?" Tech: TS, React, FP
 
 ### SpicyBrain (2022-2024)
 
-Founder/Developer. Life Assistant AI chat app designed to assist neurodivergent people. Svelte, flask, python, clojure, OpenAI, auth0, and  integration
+Founder/Developer. Life Assistant AI chat app designed to assist neurodivergent people. Tech: Svelte, flask, python, clojure, OpenAI and Auth0 integration
 
 ### [Navigation North](http://navigationnorth.com) (2012)
 
