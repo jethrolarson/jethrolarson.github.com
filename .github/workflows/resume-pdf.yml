@@ -25,6 +25,10 @@ jobs:
         run: |
           awk 'BEGIN{fm=0} NR==1 && /^---$/{fm=1; next} fm==1 && /^---$/{fm=0; next} fm==0{print}' resume.md > resume-clean.md
 
+      - name: Rewrite root-relative links to absolute
+        run: |
+          sed -i 's|(/resume.pdf)|(https://jethrolarson.github.io/resume.pdf)|' resume-clean.md
+
       - name: Render PDF
         run: |
           npx --yes md-to-pdf resume-clean.md \
