@@ -108,7 +108,7 @@ A suite of state management and web development libraries built around functiona
 
 ### SpicyBrain (2022-2024)
 
-Founder/Developer/Designer. Life Assistant AI chat app designed to assist neurodivergent people with time management and cognitive load. Streaming tokens, tool loops built from scratch (before tool-use was built into models). Tech: TS, Server Sent Events(SSE), Svelte, flask, python, clojure, OpenAI and Auth0 integration
+Founder/Developer/Designer. Life Assistant AI chat app designed to assist neurodivergent people with time management and cognitive load. Implemented token streaming over SSE and custom tool-calling loops before native model tool-use APIs were available. Tech: TS, Server Sent Events(SSE), Svelte, flask, python, clojure, OpenAI and Auth0 integration
 
 ### [Navigation North](http://navigationnorth.com) (2012)
 
