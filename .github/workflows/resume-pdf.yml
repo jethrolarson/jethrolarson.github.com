@@ -1,0 +1,42 @@
+name: Build resume PDF
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - resume.md
+
+permissions:
+  contents: write
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Strip Jekyll front matter
+        run: |
+          awk 'BEGIN{fm=0} NR==1 && /^---$/{fm=1; next} fm==1 && /^---$/{fm=0; next} fm==0{print}' resume.md > resume-clean.md
+
+      - name: Render PDF
+        run: |
+          npx --yes md-to-pdf resume-clean.md \
+            --pdf-options '{"format":"Letter","margin":{"top":"0.6in","bottom":"0.6in","left":"0.75in","right":"0.75in"}}' \
+            --launch-options '{"args":["--no-sandbox"]}'
+          mv resume-clean.pdf resume.pdf
+          rm resume-clean.md
+
+      - name: Commit PDF if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add resume.pdf
+          git diff --staged --quiet && echo "No changes" || git commit -m "Regenerate resume.pdf from resume.md [skip ci]"
+          git push

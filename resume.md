@@ -8,6 +8,7 @@ Jethro Larson
 Lynnwood, WA  
 <jethrolarson@gmail.com>  
 [LinkedIn](http://www.linkedin.com/in/jethrolarson)  
+[PDF Version](/resume.pdf)  
 [Plain Text Version](http://github.com/jethrolarson/jethrolarson.github.com/raw/master/resume.md)
 
 ----
