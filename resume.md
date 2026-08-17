@@ -5,7 +5,7 @@ layout: simple
 
 Jethro Larson
 ----
-Lynnwood, WA  
+Seattle Area, WA  
 <jethrolarson@gmail.com>  
 [LinkedIn](http://www.linkedin.com/in/jethrolarson)  
 [PDF Version](/resume.pdf)  
@@ -25,9 +25,9 @@ Title: Lead Member of Technical Staff
 Current Role: Lead developer for Tableau Next Metrics
 
 * Built orchestration system for managing agents across remote workspaces. Automated processes that would take developers > 5 hours into set and forget agentic workflows that can queue spec-driven development while AFK without sacrificing visibility and control. 
-* Shipped Tableau Next Metric Card across 6 distribution surfaces
+* Shipped Tableau Next Metric Card across 6 distribution surfaces. Deep user configuration support, responsive, multiple embedding contexts on web, Slack, and MS teams. Heavy-multi-team collaboration.
 * Launched [Tableau Pulse](https://www.tableau.com/products/tableau-pulse)
-* Acted as development lead on [Tableau Exchange](https://exchange.tableau.com)
+* Acted as development lead on [Tableau Exchange](https://exchange.tableau.com) on web and embedded experiences.
 * Shipped multiple hybrid app development on tableau desktop enabling same-day deployment of bug fixes where previous process would take months
 * Delivered Angular to React migration for [Tableau Public](https://public.tableau.com)
 * Led and developed the team's agile, quality, and CI/CD processes taking us from shipping our software a couple times a month to multiple times a day
@@ -39,12 +39,10 @@ Titles: Software Development Manager, Senior Software Engineer, Lead UX Develope
 * Managed small and large teams (4-12 people)
 * Led hiring efforts of developers and testers
 * Mentored developers as peer and as manager
-* Led effort to improve test coverage
-* Gave lessons on beginner and intermediate functional programming
-* Organized the Developer Guild
-* Led React migration of large backbone application.
-* Designed, led, and built CMS for Tennis Channel and STIRR OTT apps.
+* Organized the and led internal trainings and Developer Guild
+* Architected, led, and built CMS for Tennis Channel and STIRR OTT apps.
 * Led development of CMS for circa.com news app
+* Led React migration of large backbone application.
 
 ## Amazon.com - CS Tech (2014 - 2015)
 Title: Web Development Engineer II
@@ -110,7 +108,7 @@ A suite of state management and web development libraries built around functiona
 
 ### SpicyBrain (2022-2024)
 
-Founder/Developer. Life Assistant AI chat app designed to assist neurodivergent people. Tech: Svelte, flask, python, clojure, OpenAI and Auth0 integration
+Founder/Developer/Designer. Life Assistant AI chat app designed to assist neurodivergent people with time management and cognitive load. Streaming tokens, tool loops built from scratch (before tool-use was built into models). Tech: TS, Server Sent Events(SSE), Svelte, flask, python, clojure, OpenAI and Auth0 integration
 
 ### [Navigation North](http://navigationnorth.com) (2012)
 
